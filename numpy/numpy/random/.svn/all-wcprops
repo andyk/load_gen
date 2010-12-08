@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/numpy/!svn/ver/8525/trunk/numpy/random
+END
+info.py
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/numpy/!svn/ver/5670/trunk/numpy/random/info.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/numpy/!svn/ver/5610/trunk/numpy/random/__init__.py
+END
+SConscript
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/numpy/!svn/ver/6082/trunk/numpy/random/SConscript
+END
+SConstruct
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/numpy/!svn/ver/5280/trunk/numpy/random/SConstruct
+END
+setup.py
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/numpy/!svn/ver/6079/trunk/numpy/random/setup.py
+END
+setupscons.py
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/numpy/!svn/ver/4775/trunk/numpy/random/setupscons.py
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/numpy/!svn/ver/8390/trunk/doc/numpy.scipy.org/_theme/scipy
+END
+layout.html
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/numpy/!svn/ver/8061/trunk/doc/numpy.scipy.org/_theme/scipy/layout.html
+END
+theme.conf
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/numpy/!svn/ver/8061/trunk/doc/numpy.scipy.org/_theme/scipy/theme.conf
+END
+index.html
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/numpy/!svn/ver/8390/trunk/doc/numpy.scipy.org/_theme/scipy/index.html
+END

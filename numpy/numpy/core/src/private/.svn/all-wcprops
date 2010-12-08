@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/numpy/!svn/ver/8625/trunk/numpy/core/src/private
+END
+npy_config.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/numpy/!svn/ver/8625/trunk/numpy/core/src/private/npy_config.h
+END
+npy_fpmath.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/numpy/!svn/ver/8511/trunk/numpy/core/src/private/npy_fpmath.h
+END

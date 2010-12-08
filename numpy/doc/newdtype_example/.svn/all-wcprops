@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/numpy/!svn/ver/5681/trunk/doc/newdtype_example
+END
+floatint.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/numpy/!svn/ver/5681/trunk/doc/newdtype_example/floatint.c
+END
+example.py
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/numpy/!svn/ver/5681/trunk/doc/newdtype_example/example.py
+END
+setup.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/numpy/!svn/ver/5681/trunk/doc/newdtype_example/setup.py
+END

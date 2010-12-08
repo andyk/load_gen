@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/numpy/!svn/ver/5511/trunk/numpy/lib/benchmarks
+END
+bench_arraysetops.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/numpy/!svn/ver/5511/trunk/numpy/lib/benchmarks/bench_arraysetops.py
+END

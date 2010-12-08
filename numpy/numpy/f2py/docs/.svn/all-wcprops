@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/numpy/!svn/ver/1960/trunk/numpy/f2py/docs
+END
+HISTORY.txt
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/numpy/!svn/ver/1792/trunk/numpy/f2py/docs/HISTORY.txt
+END
+pytest.py
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/numpy/!svn/ver/1792/trunk/numpy/f2py/docs/pytest.py
+END
+pyforttest.pyf
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/numpy/!svn/ver/1792/trunk/numpy/f2py/docs/pyforttest.pyf
+END
+simple_session.dat
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/numpy/!svn/ver/1792/trunk/numpy/f2py/docs/simple_session.dat
+END
+FAQ.txt
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/numpy/!svn/ver/1792/trunk/numpy/f2py/docs/FAQ.txt
+END
+THANKS.txt
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/numpy/!svn/ver/1960/trunk/numpy/f2py/docs/THANKS.txt
+END
+hello.f
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/numpy/!svn/ver/1792/trunk/numpy/f2py/docs/hello.f
+END
+OLDNEWS.txt
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/numpy/!svn/ver/1792/trunk/numpy/f2py/docs/OLDNEWS.txt
+END
+docutils.conf
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/numpy/!svn/ver/1792/trunk/numpy/f2py/docs/docutils.conf
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/numpy/!svn/ver/1960/trunk/numpy/f2py/docs/README.txt
+END
+TESTING.txt
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/numpy/!svn/ver/1792/trunk/numpy/f2py/docs/TESTING.txt
+END
+default.css
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/numpy/!svn/ver/1792/trunk/numpy/f2py/docs/default.css
+END
+simple.f
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/numpy/!svn/ver/1792/trunk/numpy/f2py/docs/simple.f
+END

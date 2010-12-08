@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/numpy/!svn/ver/8313/trunk/numpy/f2py/tests
+END
+test_return_logical.py
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/numpy/!svn/ver/8313/trunk/numpy/f2py/tests/test_return_logical.py
+END
+test_return_character.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/numpy/!svn/ver/8313/trunk/numpy/f2py/tests/test_return_character.py
+END
+test_callback.py
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/numpy/!svn/ver/8313/trunk/numpy/f2py/tests/test_callback.py
+END
+test_return_integer.py
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/numpy/!svn/ver/8313/trunk/numpy/f2py/tests/test_return_integer.py
+END
+util.py
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/numpy/!svn/ver/8279/trunk/numpy/f2py/tests/util.py
+END
+test_return_real.py
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/numpy/!svn/ver/8313/trunk/numpy/f2py/tests/test_return_real.py
+END
+test_array_from_pyobj.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/numpy/!svn/ver/8276/trunk/numpy/f2py/tests/test_array_from_pyobj.py
+END
+test_mixed.py
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/numpy/!svn/ver/8313/trunk/numpy/f2py/tests/test_mixed.py
+END
+test_return_complex.py
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/numpy/!svn/ver/8313/trunk/numpy/f2py/tests/test_return_complex.py
+END

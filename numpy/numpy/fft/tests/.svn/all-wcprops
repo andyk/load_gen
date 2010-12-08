@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/numpy/!svn/ver/8403/trunk/numpy/fft/tests
+END
+test_fftpack.py
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/numpy/!svn/ver/8196/trunk/numpy/fft/tests/test_fftpack.py
+END
+test_helper.py
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/numpy/!svn/ver/8403/trunk/numpy/fft/tests/test_helper.py
+END

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/numpy/!svn/ver/8113/trunk/doc/cython
+END
+numpyx.pyx
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/numpy/!svn/ver/5681/trunk/doc/cython/numpyx.pyx
+END
+c_numpy.pxd
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/numpy/!svn/ver/8113/trunk/doc/cython/c_numpy.pxd
+END
+MANIFEST
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/numpy/!svn/ver/5681/trunk/doc/cython/MANIFEST
+END
+setup.py
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/numpy/!svn/ver/5681/trunk/doc/cython/setup.py
+END
+run_test.py
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/numpy/!svn/ver/5681/trunk/doc/cython/run_test.py
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/numpy/!svn/ver/5681/trunk/doc/cython/README.txt
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/numpy/!svn/ver/5681/trunk/doc/cython/Makefile
+END
+c_python.pxd
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/numpy/!svn/ver/5681/trunk/doc/cython/c_python.pxd
+END

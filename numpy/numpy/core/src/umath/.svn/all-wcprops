@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/numpy/!svn/ver/8569/trunk/numpy/core/src/umath
+END
+loops.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/numpy/!svn/ver/7770/trunk/numpy/core/src/umath/loops.h
+END
+loops.c.src
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/numpy/!svn/ver/8508/trunk/numpy/core/src/umath/loops.c.src
+END
+umathmodule_onefile.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/numpy/!svn/ver/6937/trunk/numpy/core/src/umath/umathmodule_onefile.c
+END
+ufunc_object.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/numpy/!svn/ver/8485/trunk/numpy/core/src/umath/ufunc_object.c
+END
+umath_tests.c.src
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/numpy/!svn/ver/8481/trunk/numpy/core/src/umath/umath_tests.c.src
+END
+loops.h.src
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/numpy/!svn/ver/7770/trunk/numpy/core/src/umath/loops.h.src
+END
+umathmodule.c.src
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/numpy/!svn/ver/8438/trunk/numpy/core/src/umath/umathmodule.c.src
+END
+funcs.inc.src
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/numpy/!svn/ver/8569/trunk/numpy/core/src/umath/funcs.inc.src
+END
+ufunc_object.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/numpy/!svn/ver/6917/trunk/numpy/core/src/umath/ufunc_object.h
+END

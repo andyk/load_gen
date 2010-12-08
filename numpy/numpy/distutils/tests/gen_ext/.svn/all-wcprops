@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/numpy/!svn/ver/5353/trunk/numpy/distutils/tests/gen_ext
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/numpy/!svn/ver/1792/trunk/numpy/distutils/tests/gen_ext/__init__.py
+END
+setup.py
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/numpy/!svn/ver/3745/trunk/numpy/distutils/tests/gen_ext/setup.py
+END

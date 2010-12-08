@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/numpy/!svn/ver/8625/trunk/numpy/core/src
+END
+_sortmodule.c.src
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/numpy/!svn/ver/7916/trunk/numpy/core/src/_sortmodule.c.src
+END
+scalarmathmodule.c.src
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/numpy/!svn/ver/8481/trunk/numpy/core/src/scalarmathmodule.c.src
+END

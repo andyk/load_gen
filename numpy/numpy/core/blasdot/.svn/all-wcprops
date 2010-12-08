@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/numpy/!svn/ver/8599/trunk/numpy/core/blasdot
+END
+_dotblas.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/numpy/!svn/ver/8599/trunk/numpy/core/blasdot/_dotblas.c
+END
+cblas.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/numpy/!svn/ver/3704/trunk/numpy/core/blasdot/cblas.h
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/numpy/!svn/ver/8456/trunk/doc/cdoc
+END
+Doxyfile
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/numpy/!svn/ver/8456/trunk/doc/cdoc/Doxyfile
+END
+numpyfilter.py
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/numpy/!svn/ver/8456/trunk/doc/cdoc/numpyfilter.py
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/numpy/!svn/ver/8456/trunk/doc/cdoc/Makefile
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/numpy/!svn/ver/8456/trunk/doc/cdoc/README
+END

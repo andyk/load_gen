@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/numpy/!svn/ver/8485/trunk/numpy/f2py/src
+END
+fortranobject.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/numpy/!svn/ver/8485/trunk/numpy/f2py/src/fortranobject.c
+END
+fortranobject.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/numpy/!svn/ver/8485/trunk/numpy/f2py/src/fortranobject.h
+END

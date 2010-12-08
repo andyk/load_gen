@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/numpy/!svn/ver/5542/trunk/tools/win32build/cpucaps
+END
+cpucaps_main.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/numpy/!svn/ver/5542/trunk/tools/win32build/cpucaps/cpucaps_main.c
+END
+SConstruct
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/numpy/!svn/ver/5542/trunk/tools/win32build/cpucaps/SConstruct
+END
+cpucaps_main.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/numpy/!svn/ver/5542/trunk/tools/win32build/cpucaps/cpucaps_main.h
+END

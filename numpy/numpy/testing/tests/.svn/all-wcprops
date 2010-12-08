@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/numpy/!svn/ver/8539/trunk/numpy/testing/tests
+END
+test_utils.py
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/numpy/!svn/ver/8539/trunk/numpy/testing/tests/test_utils.py
+END
+test_decorators.py
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/numpy/!svn/ver/6342/trunk/numpy/testing/tests/test_decorators.py
+END

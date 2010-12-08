@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/numpy/!svn/ver/7595/trunk/tools/c_coverage
+END
+c_coverage_report.py
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/numpy/!svn/ver/7595/trunk/tools/c_coverage/c_coverage_report.py
+END
+HOWTO_C_COVERAGE.txt
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/numpy/!svn/ver/7595/trunk/tools/c_coverage/HOWTO_C_COVERAGE.txt
+END
+c_coverage_collect.sh
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/numpy/!svn/ver/7595/trunk/tools/c_coverage/c_coverage_collect.sh
+END

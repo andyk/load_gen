@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/numpy/!svn/ver/5684/trunk/doc/numpybook/comparison/f2py
+END
+timeme
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/numpy/!svn/ver/5684/trunk/doc/numpybook/comparison/f2py/timeme
+END
+filter.pyf
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/numpy/!svn/ver/5684/trunk/doc/numpybook/comparison/f2py/filter.pyf
+END
+add.pyf
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/numpy/!svn/ver/5684/trunk/doc/numpybook/comparison/f2py/add.pyf
+END
+filter.f
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/numpy/!svn/ver/5684/trunk/doc/numpybook/comparison/f2py/filter.f
+END
+add.f
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/numpy/!svn/ver/5684/trunk/doc/numpybook/comparison/f2py/add.f
+END
+filtermodule.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/numpy/!svn/ver/5684/trunk/doc/numpybook/comparison/f2py/filtermodule.c
+END

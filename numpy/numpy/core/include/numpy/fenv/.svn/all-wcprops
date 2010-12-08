@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/numpy/!svn/ver/7573/trunk/numpy/core/include/numpy/fenv
+END
+fenv.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/numpy/!svn/ver/7573/trunk/numpy/core/include/numpy/fenv/fenv.c
+END
+fenv.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/numpy/!svn/ver/7573/trunk/numpy/core/include/numpy/fenv/fenv.h
+END

@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/numpy/!svn/ver/8453/trunk/numpy/distutils/fcompiler
+END
+gnu.py
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/numpy/!svn/ver/8453/trunk/numpy/distutils/fcompiler/gnu.py
+END
+none.py
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/numpy/!svn/ver/7843/trunk/numpy/distutils/fcompiler/none.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/numpy/!svn/ver/8079/trunk/numpy/distutils/fcompiler/__init__.py
+END
+lahey.py
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/numpy/!svn/ver/7843/trunk/numpy/distutils/fcompiler/lahey.py
+END
+g95.py
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/numpy/!svn/ver/7843/trunk/numpy/distutils/fcompiler/g95.py
+END
+sun.py
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/numpy/!svn/ver/7843/trunk/numpy/distutils/fcompiler/sun.py
+END
+nag.py
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/numpy/!svn/ver/7859/trunk/numpy/distutils/fcompiler/nag.py
+END
+pg.py
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/numpy/!svn/ver/7843/trunk/numpy/distutils/fcompiler/pg.py
+END
+ibm.py
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/numpy/!svn/ver/7843/trunk/numpy/distutils/fcompiler/ibm.py
+END
+mips.py
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/numpy/!svn/ver/7843/trunk/numpy/distutils/fcompiler/mips.py
+END
+intel.py
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/numpy/!svn/ver/8079/trunk/numpy/distutils/fcompiler/intel.py
+END
+vast.py
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/numpy/!svn/ver/7843/trunk/numpy/distutils/fcompiler/vast.py
+END
+absoft.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/numpy/!svn/ver/7843/trunk/numpy/distutils/fcompiler/absoft.py
+END
+compaq.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/numpy/!svn/ver/7857/trunk/numpy/distutils/fcompiler/compaq.py
+END
+hpux.py
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/numpy/!svn/ver/7843/trunk/numpy/distutils/fcompiler/hpux.py
+END

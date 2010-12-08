@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/numpy/!svn/ver/8563/trunk/numpy/matrixlib
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/numpy/!svn/ver/8563/trunk/numpy/matrixlib/__init__.py
+END
+setup.py
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/numpy/!svn/ver/7402/trunk/numpy/matrixlib/setup.py
+END
+defmatrix.py
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/numpy/!svn/ver/8563/trunk/numpy/matrixlib/defmatrix.py
+END
+setupscons.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/numpy/!svn/ver/7402/trunk/numpy/matrixlib/setupscons.py
+END

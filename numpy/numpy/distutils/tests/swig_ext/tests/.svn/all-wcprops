@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/numpy/!svn/ver/5353/trunk/numpy/distutils/tests/swig_ext/tests
+END
+test_example.py
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/numpy/!svn/ver/5353/trunk/numpy/distutils/tests/swig_ext/tests/test_example.py
+END
+test_example2.py
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/numpy/!svn/ver/5353/trunk/numpy/distutils/tests/swig_ext/tests/test_example2.py
+END

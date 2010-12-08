@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/numpy/!svn/ver/1792/trunk/numpy/f2py/doc/multiarray
+END
+run.pyf
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/numpy/!svn/ver/1792/trunk/numpy/f2py/doc/multiarray/run.pyf
+END
+array_from_pyobj.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/numpy/!svn/ver/1792/trunk/numpy/f2py/doc/multiarray/array_from_pyobj.c
+END
+bar.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/numpy/!svn/ver/1792/trunk/numpy/f2py/doc/multiarray/bar.c
+END
+fun.pyf
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/numpy/!svn/ver/1792/trunk/numpy/f2py/doc/multiarray/fun.pyf
+END
+foo.f
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/numpy/!svn/ver/1792/trunk/numpy/f2py/doc/multiarray/foo.f
+END
+transpose.txt
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/numpy/!svn/ver/1792/trunk/numpy/f2py/doc/multiarray/transpose.txt
+END
+fortran_array_from_pyobj.txt
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/numpy/!svn/ver/1792/trunk/numpy/f2py/doc/multiarray/fortran_array_from_pyobj.txt
+END

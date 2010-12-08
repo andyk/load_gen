@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/numpy/!svn/ver/8273/trunk/numpy/f2py/tests/src/mixed
+END
+foo_fixed.f90
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/numpy/!svn/ver/8273/trunk/numpy/f2py/tests/src/mixed/foo_fixed.f90
+END
+foo_free.f90
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/numpy/!svn/ver/8273/trunk/numpy/f2py/tests/src/mixed/foo_free.f90
+END
+foo.f
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/numpy/!svn/ver/8273/trunk/numpy/f2py/tests/src/mixed/foo.f
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/numpy/!svn/ver/7759/trunk/tools/numpy-macosx-installer
+END
+new-create-dmg
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/numpy/!svn/ver/7759/trunk/tools/numpy-macosx-installer/new-create-dmg
+END
+dmgbackground.png
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/numpy/!svn/ver/7759/trunk/tools/numpy-macosx-installer/dmgbackground.png
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/numpy/!svn/ver/7759/trunk/tools/numpy-macosx-installer/README.txt
+END

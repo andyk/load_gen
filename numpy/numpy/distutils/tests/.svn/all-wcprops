@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/numpy/!svn/ver/8196/trunk/numpy/distutils/tests
+END
+test_fcompiler_gnu.py
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/numpy/!svn/ver/5343/trunk/numpy/distutils/tests/test_fcompiler_gnu.py
+END
+test_npy_pkg_config.py
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/numpy/!svn/ver/8196/trunk/numpy/distutils/tests/test_npy_pkg_config.py
+END
+setup.py
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/numpy/!svn/ver/3745/trunk/numpy/distutils/tests/setup.py
+END
+test_misc_util.py
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/numpy/!svn/ver/5807/trunk/numpy/distutils/tests/test_misc_util.py
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/numpy/!svn/ver/5743/trunk/doc/numpybook/comparison/weave
+END
+timeme
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/numpy/!svn/ver/5684/trunk/doc/numpybook/comparison/weave/timeme
+END
+inline.py
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/numpy/!svn/ver/5743/trunk/doc/numpybook/comparison/weave/inline.py
+END
+filter.py
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/numpy/!svn/ver/5743/trunk/doc/numpybook/comparison/weave/filter.py
+END

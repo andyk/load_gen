@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/numpy/!svn/ver/8656/trunk/doc
+END
+records.txt
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/numpy/!svn/ver/5681/trunk/doc/records.txt
+END
+TESTS.txt
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/numpy/!svn/ver/7098/trunk/doc/TESTS.txt
+END
+ufuncs.txt
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/numpy/!svn/ver/5681/trunk/doc/ufuncs.txt
+END
+example.py
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/numpy/!svn/ver/7095/trunk/doc/example.py
+END
+EXAMPLE_DOCSTRING.txt
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/numpy/!svn/ver/5681/trunk/doc/EXAMPLE_DOCSTRING.txt
+END
+HOWTO_MERGE_WIKI_DOCS.txt
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/numpy/!svn/ver/7579/trunk/doc/HOWTO_MERGE_WIKI_DOCS.txt
+END
+CAPI.txt
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/numpy/!svn/ver/8113/trunk/doc/CAPI.txt
+END
+DISTUTILS.txt
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/numpy/!svn/ver/5749/trunk/doc/DISTUTILS.txt
+END
+summarize.py
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/numpy/!svn/ver/6141/trunk/doc/summarize.py
+END
+Py3K.txt
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/numpy/!svn/ver/8480/trunk/doc/Py3K.txt
+END
+HOWTO_BUILD_DOCS.txt
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/numpy/!svn/ver/7073/trunk/doc/HOWTO_BUILD_DOCS.txt
+END
+postprocess.py
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/numpy/!svn/ver/6850/trunk/doc/postprocess.py
+END
+HOWTO_DOCUMENT.txt
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/numpy/!svn/ver/7586/trunk/doc/HOWTO_DOCUMENT.txt
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/numpy/!svn/ver/8611/trunk/doc/Makefile
+END
+HOWTO_RELEASE.txt
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/numpy/!svn/ver/8656/trunk/doc/HOWTO_RELEASE.txt
+END

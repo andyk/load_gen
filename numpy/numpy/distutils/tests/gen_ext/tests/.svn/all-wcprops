@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/numpy/!svn/ver/5353/trunk/numpy/distutils/tests/gen_ext/tests
+END
+test_fib3.py
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/numpy/!svn/ver/5353/trunk/numpy/distutils/tests/gen_ext/tests/test_fib3.py
+END

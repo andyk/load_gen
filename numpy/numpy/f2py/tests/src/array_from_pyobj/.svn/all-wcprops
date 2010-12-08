@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/numpy/!svn/ver/8287/trunk/numpy/f2py/tests/src/array_from_pyobj
+END
+wrapmodule.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/numpy/!svn/ver/8287/trunk/numpy/f2py/tests/src/array_from_pyobj/wrapmodule.c
+END

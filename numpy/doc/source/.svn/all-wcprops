@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/numpy/!svn/ver/8557/trunk/doc/source
+END
+about.rst
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/numpy/!svn/ver/6725/trunk/doc/source/about.rst
+END
+contents.rst
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/numpy/!svn/ver/6702/trunk/doc/source/contents.rst
+END
+bugs.rst
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/numpy/!svn/ver/6096/trunk/doc/source/bugs.rst
+END
+release.rst
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/numpy/!svn/ver/6114/trunk/doc/source/release.rst
+END
+license.rst
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/numpy/!svn/ver/6702/trunk/doc/source/license.rst
+END
+glossary.rst
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/numpy/!svn/ver/6096/trunk/doc/source/glossary.rst
+END
+conf.py
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/numpy/!svn/ver/7446/trunk/doc/source/conf.py
+END
+scipyshiny_small.png
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/numpy/!svn/ver/6096/trunk/doc/source/scipyshiny_small.png
+END

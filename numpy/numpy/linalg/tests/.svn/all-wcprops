@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/numpy/!svn/ver/8407/trunk/numpy/linalg/tests
+END
+test_build.py
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/numpy/!svn/ver/8232/trunk/numpy/linalg/tests/test_build.py
+END
+test_regression.py
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/numpy/!svn/ver/8407/trunk/numpy/linalg/tests/test_regression.py
+END
+test_linalg.py
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/numpy/!svn/ver/8384/trunk/numpy/linalg/tests/test_linalg.py
+END

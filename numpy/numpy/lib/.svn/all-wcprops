@@ -1,0 +1,155 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/numpy/!svn/ver/8674/trunk/numpy/lib
+END
+scimath.py
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/numpy/!svn/ver/8562/trunk/numpy/lib/scimath.py
+END
+format.py
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/numpy/!svn/ver/8561/trunk/numpy/lib/format.py
+END
+_datasource.py
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/numpy/!svn/ver/8170/trunk/numpy/lib/_datasource.py
+END
+shape_base.py
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/numpy/!svn/ver/8562/trunk/numpy/lib/shape_base.py
+END
+info.py
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/numpy/!svn/ver/7124/trunk/numpy/lib/info.py
+END
+twodim_base.py
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/numpy/!svn/ver/8615/trunk/numpy/lib/twodim_base.py
+END
+npyio.py
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/numpy/!svn/ver/8638/trunk/numpy/lib/npyio.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/numpy/!svn/ver/8302/trunk/numpy/lib/__init__.py
+END
+utils.py
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/numpy/!svn/ver/8532/trunk/numpy/lib/utils.py
+END
+setup.py
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/numpy/!svn/ver/5704/trunk/numpy/lib/setup.py
+END
+SConscript
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/numpy/!svn/ver/7988/trunk/numpy/lib/SConscript
+END
+recfunctions.py
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/numpy/!svn/ver/8306/trunk/numpy/lib/recfunctions.py
+END
+setupscons.py
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/numpy/!svn/ver/4775/trunk/numpy/lib/setupscons.py
+END
+stride_tricks.py
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/numpy/!svn/ver/8562/trunk/numpy/lib/stride_tricks.py
+END
+user_array.py
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/numpy/!svn/ver/3501/trunk/numpy/lib/user_array.py
+END
+arraysetops.py
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/numpy/!svn/ver/7587/trunk/numpy/lib/arraysetops.py
+END
+type_check.py
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/numpy/!svn/ver/8485/trunk/numpy/lib/type_check.py
+END
+function_base.py
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/numpy/!svn/ver/8674/trunk/numpy/lib/function_base.py
+END
+arrayterator.py
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/numpy/!svn/ver/8188/trunk/numpy/lib/arrayterator.py
+END
+SConstruct
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/numpy/!svn/ver/5274/trunk/numpy/lib/SConstruct
+END
+polynomial.py
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/numpy/!svn/ver/8382/trunk/numpy/lib/polynomial.py
+END
+financial.py
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/numpy/!svn/ver/8312/trunk/numpy/lib/financial.py
+END
+ufunclike.py
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/numpy/!svn/ver/8351/trunk/numpy/lib/ufunclike.py
+END
+index_tricks.py
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/numpy/!svn/ver/8198/trunk/numpy/lib/index_tricks.py
+END
+_iotools.py
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/numpy/!svn/ver/8416/trunk/numpy/lib/_iotools.py
+END

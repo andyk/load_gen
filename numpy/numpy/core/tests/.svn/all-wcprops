@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/numpy/!svn/ver/8627/trunk/numpy/core/tests
+END
+test_errstate.py
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/numpy/!svn/ver/7944/trunk/numpy/core/tests/test_errstate.py
+END
+test_multiarray.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/numpy/!svn/ver/8509/trunk/numpy/core/tests/test_multiarray.py
+END
+test_shape_base.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/numpy/!svn/ver/7399/trunk/numpy/core/tests/test_shape_base.py
+END
+test_arrayprint.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/numpy/!svn/ver/8506/trunk/numpy/core/tests/test_arrayprint.py
+END
+test_defchararray.py
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/numpy/!svn/ver/8196/trunk/numpy/core/tests/test_defchararray.py
+END
+test_machar.py
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/numpy/!svn/ver/7398/trunk/numpy/core/tests/test_machar.py
+END
+test_datetime.py
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/numpy/!svn/ver/8400/trunk/numpy/core/tests/test_datetime.py
+END
+test_print.py
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/numpy/!svn/ver/8412/trunk/numpy/core/tests/test_print.py
+END
+test_getlimits.py
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/numpy/!svn/ver/8568/trunk/numpy/core/tests/test_getlimits.py
+END
+test_records.py
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/numpy/!svn/ver/8626/trunk/numpy/core/tests/test_records.py
+END
+test_numeric.py
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/numpy/!svn/ver/8627/trunk/numpy/core/tests/test_numeric.py
+END
+test_umath_complex.py
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/numpy/!svn/ver/8623/trunk/numpy/core/tests/test_umath_complex.py
+END
+test_memmap.py
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/numpy/!svn/ver/8606/trunk/numpy/core/tests/test_memmap.py
+END
+test_umath.py
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/numpy/!svn/ver/8569/trunk/numpy/core/tests/test_umath.py
+END
+test_scalarmath.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/numpy/!svn/ver/6873/trunk/numpy/core/tests/test_scalarmath.py
+END
+test_function_base.py
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/numpy/!svn/ver/7394/trunk/numpy/core/tests/test_function_base.py
+END
+test_regression.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/numpy/!svn/ver/8572/trunk/numpy/core/tests/test_regression.py
+END
+test_ufunc.py
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/numpy/!svn/ver/6590/trunk/numpy/core/tests/test_ufunc.py
+END
+test_dtype.py
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/numpy/!svn/ver/8436/trunk/numpy/core/tests/test_dtype.py
+END
+test_unicode.py
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/numpy/!svn/ver/8141/trunk/numpy/core/tests/test_unicode.py
+END
+test_numerictypes.py
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/numpy/!svn/ver/8202/trunk/numpy/core/tests/test_numerictypes.py
+END
+test_blasdot.py
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/numpy/!svn/ver/5603/trunk/numpy/core/tests/test_blasdot.py
+END

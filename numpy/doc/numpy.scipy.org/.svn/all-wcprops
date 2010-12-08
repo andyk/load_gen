@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/numpy/!svn/ver/8390/trunk/doc/numpy.scipy.org
+END
+content.rst
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/numpy/!svn/ver/8390/trunk/doc/numpy.scipy.org/content.rst
+END
+old_array_packages.rst
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/numpy/!svn/ver/8062/trunk/doc/numpy.scipy.org/old_array_packages.rst
+END
+license.rst
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/numpy/!svn/ver/8390/trunk/doc/numpy.scipy.org/license.rst
+END
+conf.py
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/numpy/!svn/ver/8067/trunk/doc/numpy.scipy.org/conf.py
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/numpy/!svn/ver/8069/trunk/doc/numpy.scipy.org/Makefile
+END

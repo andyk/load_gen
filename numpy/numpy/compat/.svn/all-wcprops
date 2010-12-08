@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/numpy/!svn/ver/8410/trunk/numpy/compat
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/numpy/!svn/ver/7928/trunk/numpy/compat/__init__.py
+END
+setup.py
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/numpy/!svn/ver/7522/trunk/numpy/compat/setup.py
+END
+_inspect.py
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/numpy/!svn/ver/8150/trunk/numpy/compat/_inspect.py
+END
+py3k.py
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/numpy/!svn/ver/8410/trunk/numpy/compat/py3k.py
+END
+setupscons.py
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/numpy/!svn/ver/7522/trunk/numpy/compat/setupscons.py
+END

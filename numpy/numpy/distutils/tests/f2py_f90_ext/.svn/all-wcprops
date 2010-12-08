@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/numpy/!svn/ver/5353/trunk/numpy/distutils/tests/f2py_f90_ext
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/numpy/!svn/ver/1792/trunk/numpy/distutils/tests/f2py_f90_ext/__init__.py
+END
+setup.py
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/numpy/!svn/ver/3745/trunk/numpy/distutils/tests/f2py_f90_ext/setup.py
+END

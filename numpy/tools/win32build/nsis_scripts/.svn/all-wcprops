@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/numpy/!svn/ver/7808/trunk/tools/win32build/nsis_scripts
+END
+numpy-superinstaller.nsi.in
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/numpy/!svn/ver/7808/trunk/tools/win32build/nsis_scripts/numpy-superinstaller.nsi.in
+END

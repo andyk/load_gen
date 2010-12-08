@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/numpy/!svn/ver/8673/trunk/numpy/distutils/command
+END
+build_clib.py
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/numpy/!svn/ver/7840/trunk/numpy/distutils/command/build_clib.py
+END
+autodist.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/numpy/!svn/ver/6941/trunk/numpy/distutils/command/autodist.py
+END
+develop.py
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/numpy/!svn/ver/4570/trunk/numpy/distutils/command/develop.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/numpy/!svn/ver/8664/trunk/numpy/distutils/command/__init__.py
+END
+build.py
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/numpy/!svn/ver/5668/trunk/numpy/distutils/command/build.py
+END
+config_compiler.py
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/numpy/!svn/ver/3829/trunk/numpy/distutils/command/config_compiler.py
+END
+install_clib.py
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/numpy/!svn/ver/7280/trunk/numpy/distutils/command/install_clib.py
+END
+install_data.py
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/numpy/!svn/ver/7728/trunk/numpy/distutils/command/install_data.py
+END
+install_headers.py
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/numpy/!svn/ver/2400/trunk/numpy/distutils/command/install_headers.py
+END
+config.py
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/numpy/!svn/ver/8673/trunk/numpy/distutils/command/config.py
+END
+build_scripts.py
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/numpy/!svn/ver/4570/trunk/numpy/distutils/command/build_scripts.py
+END
+build_src.py
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/numpy/!svn/ver/8663/trunk/numpy/distutils/command/build_src.py
+END
+install.py
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/numpy/!svn/ver/7728/trunk/numpy/distutils/command/install.py
+END
+build_py.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/numpy/!svn/ver/8664/trunk/numpy/distutils/command/build_py.py
+END
+egg_info.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/numpy/!svn/ver/4569/trunk/numpy/distutils/command/egg_info.py
+END
+build_ext.py
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/numpy/!svn/ver/7838/trunk/numpy/distutils/command/build_ext.py
+END
+bdist_rpm.py
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/numpy/!svn/ver/3955/trunk/numpy/distutils/command/bdist_rpm.py
+END
+scons.py
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/numpy/!svn/ver/7842/trunk/numpy/distutils/command/scons.py
+END
+sdist.py
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/numpy/!svn/ver/3955/trunk/numpy/distutils/command/sdist.py
+END

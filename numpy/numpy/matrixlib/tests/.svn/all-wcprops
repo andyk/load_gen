@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/numpy/!svn/ver/8374/trunk/numpy/matrixlib/tests
+END
+test_multiarray.py
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/numpy/!svn/ver/7402/trunk/numpy/matrixlib/tests/test_multiarray.py
+END
+test_regression.py
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/numpy/!svn/ver/8195/trunk/numpy/matrixlib/tests/test_regression.py
+END
+test_numeric.py
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/numpy/!svn/ver/7402/trunk/numpy/matrixlib/tests/test_numeric.py
+END
+test_defmatrix.py
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/numpy/!svn/ver/8374/trunk/numpy/matrixlib/tests/test_defmatrix.py
+END

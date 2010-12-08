@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/numpy/!svn/ver/8621/trunk/numpy/ma
+END
+API_CHANGES.txt
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/numpy/!svn/ver/7419/trunk/numpy/ma/API_CHANGES.txt
+END
+core.py
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/numpy/!svn/ver/8467/trunk/numpy/ma/core.py
+END
+timer_comparison.py
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/numpy/!svn/ver/8188/trunk/numpy/ma/timer_comparison.py
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/numpy/!svn/ver/4778/trunk/numpy/ma/LICENSE
+END
+mrecords.py
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/numpy/!svn/ver/7744/trunk/numpy/ma/mrecords.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/numpy/!svn/ver/5963/trunk/numpy/ma/__init__.py
+END
+bench.py
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/numpy/!svn/ver/5821/trunk/numpy/ma/bench.py
+END
+setup.py
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/numpy/!svn/ver/4778/trunk/numpy/ma/setup.py
+END
+testutils.py
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/numpy/!svn/ver/8614/trunk/numpy/ma/testutils.py
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/numpy/!svn/ver/4986/trunk/numpy/ma/README.txt
+END
+version.py
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/numpy/!svn/ver/4778/trunk/numpy/ma/version.py
+END
+extras.py
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/numpy/!svn/ver/8621/trunk/numpy/ma/extras.py
+END
+setupscons.py
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/numpy/!svn/ver/4780/trunk/numpy/ma/setupscons.py
+END

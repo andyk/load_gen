@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/numpy/!svn/ver/8557/trunk/doc/source/user
+END
+basics.indexing.rst
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/numpy/!svn/ver/8128/trunk/doc/source/user/basics.indexing.rst
+END
+basics.io.rst
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/numpy/!svn/ver/7696/trunk/doc/source/user/basics.io.rst
+END
+c-info.rst
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/numpy/!svn/ver/6096/trunk/doc/source/user/c-info.rst
+END
+basics.rec.rst
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/numpy/!svn/ver/8128/trunk/doc/source/user/basics.rec.rst
+END
+c-info.how-to-extend.rst
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/numpy/!svn/ver/6725/trunk/doc/source/user/c-info.how-to-extend.rst
+END
+basics.byteswapping.rst
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/numpy/!svn/ver/8557/trunk/doc/source/user/basics.byteswapping.rst
+END
+basics.subclassing.rst
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/numpy/!svn/ver/6096/trunk/doc/source/user/basics.subclassing.rst
+END
+introduction.rst
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/numpy/!svn/ver/7429/trunk/doc/source/user/introduction.rst
+END
+c-info.python-as-glue.rst
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/numpy/!svn/ver/8128/trunk/doc/source/user/c-info.python-as-glue.rst
+END
+whatisnumpy.rst
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/numpy/!svn/ver/7730/trunk/doc/source/user/whatisnumpy.rst
+END
+misc.rst
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/numpy/!svn/ver/8128/trunk/doc/source/user/misc.rst
+END
+c-info.beyond-basics.rst
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/numpy/!svn/ver/8128/trunk/doc/source/user/c-info.beyond-basics.rst
+END
+performance.rst
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/numpy/!svn/ver/8128/trunk/doc/source/user/performance.rst
+END
+howtofind.rst
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/numpy/!svn/ver/8128/trunk/doc/source/user/howtofind.rst
+END
+basics.broadcasting.rst
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/numpy/!svn/ver/6096/trunk/doc/source/user/basics.broadcasting.rst
+END
+basics.rst
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/numpy/!svn/ver/8128/trunk/doc/source/user/basics.rst
+END
+basics.io.genfromtxt.rst
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/numpy/!svn/ver/7751/trunk/doc/source/user/basics.io.genfromtxt.rst
+END
+install.rst
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/numpy/!svn/ver/8557/trunk/doc/source/user/install.rst
+END
+index.rst
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/numpy/!svn/ver/8557/trunk/doc/source/user/index.rst
+END
+basics.types.rst
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/numpy/!svn/ver/8128/trunk/doc/source/user/basics.types.rst
+END
+basics.creation.rst
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/numpy/!svn/ver/6096/trunk/doc/source/user/basics.creation.rst
+END

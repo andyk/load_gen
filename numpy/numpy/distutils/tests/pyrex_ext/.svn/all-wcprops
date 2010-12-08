@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/numpy/!svn/ver/5353/trunk/numpy/distutils/tests/pyrex_ext
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/numpy/!svn/ver/2056/trunk/numpy/distutils/tests/pyrex_ext/__init__.py
+END
+setup.py
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/numpy/!svn/ver/3745/trunk/numpy/distutils/tests/pyrex_ext/setup.py
+END
+primes.pyx
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/numpy/!svn/ver/2056/trunk/numpy/distutils/tests/pyrex_ext/primes.pyx
+END

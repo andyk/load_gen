@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/numpy/!svn/ver/8646/trunk/numpy/polynomial/tests
+END
+test_chebyshev.py
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/numpy/!svn/ver/8646/trunk/numpy/polynomial/tests/test_chebyshev.py
+END
+test_polynomial.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/numpy/!svn/ver/8637/trunk/numpy/polynomial/tests/test_polynomial.py
+END
+test_polyutils.py
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/numpy/!svn/ver/8619/trunk/numpy/polynomial/tests/test_polyutils.py
+END
+test_legendre.py
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/numpy/!svn/ver/8646/trunk/numpy/polynomial/tests/test_legendre.py
+END

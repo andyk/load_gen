@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/numpy/!svn/ver/8621/trunk/numpy/ma/tests
+END
+test_old_ma.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/numpy/!svn/ver/8295/trunk/numpy/ma/tests/test_old_ma.py
+END
+test_subclassing.py
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/numpy/!svn/ver/8195/trunk/numpy/ma/tests/test_subclassing.py
+END
+test_mrecords.py
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/numpy/!svn/ver/8224/trunk/numpy/ma/tests/test_mrecords.py
+END
+test_regression.py
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/numpy/!svn/ver/7532/trunk/numpy/ma/tests/test_regression.py
+END
+test_extras.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/numpy/!svn/ver/8621/trunk/numpy/ma/tests/test_extras.py
+END
+test_core.py
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/numpy/!svn/ver/8467/trunk/numpy/ma/tests/test_core.py
+END

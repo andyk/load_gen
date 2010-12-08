@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/numpy/!svn/ver/4775/trunk/benchmarks
+END
+casting.py
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/numpy/!svn/ver/3547/trunk/benchmarks/casting.py
+END
+benchmark.py
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/numpy/!svn/ver/4588/trunk/benchmarks/benchmark.py
+END
+creating.py
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/numpy/!svn/ver/4588/trunk/benchmarks/creating.py
+END
+simpleindex.py
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/numpy/!svn/ver/4775/trunk/benchmarks/simpleindex.py
+END
+sorting.py
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/numpy/!svn/ver/4588/trunk/benchmarks/sorting.py
+END

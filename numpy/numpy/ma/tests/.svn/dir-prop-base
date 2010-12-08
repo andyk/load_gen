@@ -1,0 +1,8 @@
+K 10
+svn:ignore
+V 55
+test_mrecords_new.py
+test_core_new.py
+test_core.py.new
+
+END

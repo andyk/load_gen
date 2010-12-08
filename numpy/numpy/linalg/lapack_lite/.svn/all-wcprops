@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/numpy/!svn/ver/6535/trunk/numpy/linalg/lapack_lite
+END
+make_lite.py
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/numpy/!svn/ver/6535/trunk/numpy/linalg/lapack_lite/make_lite.py
+END
+fortran.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/numpy/!svn/ver/2693/trunk/numpy/linalg/lapack_lite/fortran.py
+END
+clapack_scrub.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/numpy/!svn/ver/4332/trunk/numpy/linalg/lapack_lite/clapack_scrub.py
+END
+wrapped_routines
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/numpy/!svn/ver/2991/trunk/numpy/linalg/lapack_lite/wrapped_routines
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/numpy/!svn/ver/2693/trunk/numpy/linalg/lapack_lite/README
+END

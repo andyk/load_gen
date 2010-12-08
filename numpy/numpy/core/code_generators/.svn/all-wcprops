@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/numpy/!svn/ver/8589/trunk/numpy/core/code_generators
+END
+generate_umath.py
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/numpy/!svn/ver/8589/trunk/numpy/core/code_generators/generate_umath.py
+END
+cversions.py
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/numpy/!svn/ver/7500/trunk/numpy/core/code_generators/cversions.py
+END
+generate_numpy_api.py
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/numpy/!svn/ver/8485/trunk/numpy/core/code_generators/generate_numpy_api.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/numpy/!svn/ver/4773/trunk/numpy/core/code_generators/__init__.py
+END
+ufunc_docstrings.py
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/numpy/!svn/ver/8560/trunk/numpy/core/code_generators/ufunc_docstrings.py
+END
+numpy_api.py
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/numpy/!svn/ver/8113/trunk/numpy/core/code_generators/numpy_api.py
+END
+cversions.txt
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/numpy/!svn/ver/8113/trunk/numpy/core/code_generators/cversions.txt
+END
+genapi.py
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/numpy/!svn/ver/7864/trunk/numpy/core/code_generators/genapi.py
+END
+generate_ufunc_api.py
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/numpy/!svn/ver/8485/trunk/numpy/core/code_generators/generate_ufunc_api.py
+END
+genapi2.py
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/numpy/!svn/ver/7506/trunk/numpy/core/code_generators/genapi2.py
+END

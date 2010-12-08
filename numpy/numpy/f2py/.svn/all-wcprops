@@ -1,0 +1,155 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/numpy/!svn/ver/8523/trunk/numpy/f2py
+END
+f2py.1
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/numpy/!svn/ver/6354/trunk/numpy/f2py/f2py.1
+END
+diagnose.py
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/numpy/!svn/ver/8265/trunk/numpy/f2py/diagnose.py
+END
+rules.py
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/numpy/!svn/ver/8285/trunk/numpy/f2py/rules.py
+END
+info.py
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/numpy/!svn/ver/1902/trunk/numpy/f2py/info.py
+END
+TODO.txt
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/numpy/!svn/ver/1792/trunk/numpy/f2py/TODO.txt
+END
+auxfuncs.py
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/numpy/!svn/ver/8278/trunk/numpy/f2py/auxfuncs.py
+END
+capi_maps.py
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/numpy/!svn/ver/8463/trunk/numpy/f2py/capi_maps.py
+END
+cb_rules.py
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/numpy/!svn/ver/8278/trunk/numpy/f2py/cb_rules.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/numpy/!svn/ver/8313/trunk/numpy/f2py/__init__.py
+END
+setup.py
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/numpy/!svn/ver/8273/trunk/numpy/f2py/setup.py
+END
+common_rules.py
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/numpy/!svn/ver/5829/trunk/numpy/f2py/common_rules.py
+END
+NEWS.txt
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/numpy/!svn/ver/1792/trunk/numpy/f2py/NEWS.txt
+END
+use_rules.py
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/numpy/!svn/ver/5829/trunk/numpy/f2py/use_rules.py
+END
+setupscons.py
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/numpy/!svn/ver/7386/trunk/numpy/f2py/setupscons.py
+END
+setup.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/numpy/!svn/ver/1792/trunk/numpy/f2py/setup.cfg
+END
+f2py2e.py
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/numpy/!svn/ver/8278/trunk/numpy/f2py/f2py2e.py
+END
+f90mod_rules.py
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/numpy/!svn/ver/8167/trunk/numpy/f2py/f90mod_rules.py
+END
+func2subr.py
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/numpy/!svn/ver/5829/trunk/numpy/f2py/func2subr.py
+END
+f2py_testing.py
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/numpy/!svn/ver/5829/trunk/numpy/f2py/f2py_testing.py
+END
+crackfortran.py
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/numpy/!svn/ver/8523/trunk/numpy/f2py/crackfortran.py
+END
+cfuncs.py
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/numpy/!svn/ver/8478/trunk/numpy/f2py/cfuncs.py
+END
+__version__.py
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/numpy/!svn/ver/8490/trunk/numpy/f2py/__version__.py
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/numpy/!svn/ver/1792/trunk/numpy/f2py/README.txt
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/numpy/!svn/ver/1792/trunk/numpy/f2py/Makefile
+END
+BUGS.txt
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/numpy/!svn/ver/1792/trunk/numpy/f2py/BUGS.txt
+END

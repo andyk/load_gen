@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/numpy/!svn/ver/1792/trunk/numpy/distutils/tests/f2py_ext/src
+END
+fib2.pyf
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/numpy/!svn/ver/1792/trunk/numpy/distutils/tests/f2py_ext/src/fib2.pyf
+END
+fib1.f
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/numpy/!svn/ver/1792/trunk/numpy/distutils/tests/f2py_ext/src/fib1.f
+END

@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/numpy/!svn/ver/1792/trunk/numpy/distutils/tests/f2py_f90_ext/include
+END
+body.f90
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/numpy/!svn/ver/1792/trunk/numpy/distutils/tests/f2py_f90_ext/include/body.f90
+END

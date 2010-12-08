@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/numpy/!svn/ver/8653/trunk/numpy/polynomial
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/numpy/!svn/ver/8646/trunk/numpy/polynomial/__init__.py
+END
+polytemplate.py
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/numpy/!svn/ver/8653/trunk/numpy/polynomial/polytemplate.py
+END
+chebyshev.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/numpy/!svn/ver/8646/trunk/numpy/polynomial/chebyshev.py
+END
+setup.py
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/numpy/!svn/ver/7737/trunk/numpy/polynomial/setup.py
+END
+polynomial.py
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/numpy/!svn/ver/8638/trunk/numpy/polynomial/polynomial.py
+END
+polyutils.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/numpy/!svn/ver/8619/trunk/numpy/polynomial/polyutils.py
+END
+legendre.py
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/numpy/!svn/ver/8647/trunk/numpy/polynomial/legendre.py
+END

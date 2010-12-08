@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/numpy/!svn/ver/8525/trunk/numpy/random/mtrand
+END
+Python.pxi
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/numpy/!svn/ver/8485/trunk/numpy/random/mtrand/Python.pxi
+END
+mtrand_py_helper.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/numpy/!svn/ver/7924/trunk/numpy/random/mtrand/mtrand_py_helper.h
+END
+distributions.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/numpy/!svn/ver/7575/trunk/numpy/random/mtrand/distributions.c
+END
+initarray.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/numpy/!svn/ver/8444/trunk/numpy/random/mtrand/initarray.c
+END
+mtrand.pyx
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/numpy/!svn/ver/8525/trunk/numpy/random/mtrand/mtrand.pyx
+END
+mtrand.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/numpy/!svn/ver/8475/trunk/numpy/random/mtrand/mtrand.c
+END
+numpy.pxi
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/numpy/!svn/ver/8113/trunk/numpy/random/mtrand/numpy.pxi
+END
+distributions.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/numpy/!svn/ver/5676/trunk/numpy/random/mtrand/distributions.h
+END
+generate_mtrand_c.py
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/numpy/!svn/ver/8476/trunk/numpy/random/mtrand/generate_mtrand_c.py
+END
+initarray.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/numpy/!svn/ver/1792/trunk/numpy/random/mtrand/initarray.h
+END
+randomkit.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/numpy/!svn/ver/8444/trunk/numpy/random/mtrand/randomkit.c
+END
+randomkit.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/numpy/!svn/ver/7575/trunk/numpy/random/mtrand/randomkit.h
+END

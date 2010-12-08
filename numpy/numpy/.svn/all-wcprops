@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/numpy/!svn/ver/8674/trunk/numpy
+END
+matlib.py
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/numpy/!svn/ver/8567/trunk/numpy/matlib.py
+END
+_import_tools.py
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/numpy/!svn/ver/5830/trunk/numpy/_import_tools.py
+END
+add_newdocs.py
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/numpy/!svn/ver/8563/trunk/numpy/add_newdocs.py
+END
+ctypeslib.py
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/numpy/!svn/ver/8270/trunk/numpy/ctypeslib.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/numpy/!svn/ver/8032/trunk/numpy/__init__.py
+END
+setup.py
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/numpy/!svn/ver/7845/trunk/numpy/setup.py
+END
+dual.py
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/numpy/!svn/ver/5610/trunk/numpy/dual.py
+END
+setupscons.py
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/numpy/!svn/ver/7755/trunk/numpy/setupscons.py
+END

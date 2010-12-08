@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/numpy/!svn/ver/8113/trunk/doc/pyrex
+END
+numpyx.pyx
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/numpy/!svn/ver/5681/trunk/doc/pyrex/numpyx.pyx
+END
+numpyx.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/numpy/!svn/ver/5681/trunk/doc/pyrex/numpyx.c
+END
+c_numpy.pxd
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/numpy/!svn/ver/8113/trunk/doc/pyrex/c_numpy.pxd
+END
+MANIFEST
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/numpy/!svn/ver/5681/trunk/doc/pyrex/MANIFEST
+END
+setup.py
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/numpy/!svn/ver/5681/trunk/doc/pyrex/setup.py
+END
+notes
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/numpy/!svn/ver/5681/trunk/doc/pyrex/notes
+END
+run_test.py
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/numpy/!svn/ver/5681/trunk/doc/pyrex/run_test.py
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/numpy/!svn/ver/5681/trunk/doc/pyrex/README.txt
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/numpy/!svn/ver/5681/trunk/doc/pyrex/Makefile
+END
+c_python.pxd
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/numpy/!svn/ver/5681/trunk/doc/pyrex/c_python.pxd
+END

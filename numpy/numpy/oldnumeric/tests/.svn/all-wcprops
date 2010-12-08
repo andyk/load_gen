@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/numpy/!svn/ver/7399/trunk/numpy/oldnumeric/tests
+END
+test_regression.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/numpy/!svn/ver/7399/trunk/numpy/oldnumeric/tests/test_regression.py
+END
+test_oldnumeric.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/numpy/!svn/ver/5349/trunk/numpy/oldnumeric/tests/test_oldnumeric.py
+END

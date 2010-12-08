@@ -1,0 +1,19 @@
+K 9
+svk:merge
+V 192
+0cecc865-f901-0410-ba8f-b2c75a717db0:/local/scipy_core:1600
+0cecc865-f901-0410-ba8f-b2c75a717db0:/local/scipy_core/branches/newcore:723
+ad311012-0000-0410-80c7-f29fd8fc08ef:/local/newcore:3539
+K 10
+svn:ignore
+V 27
+dist
+build
+numpy.egg-info
+
+
+K 19
+svnmerge-integrated
+V 140
+/trunk:1-2871 /branches/1.3.x:1-6683 /branches/distutils-revamp:1-2752 /branches/dynamic_cpu_configuration:1-6101 /branches/multicore:1-3687
+END

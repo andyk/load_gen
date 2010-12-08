@@ -1,0 +1,143 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/numpy/!svn/ver/8471/trunk/numpy/oldnumeric
+END
+misc.py
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/numpy/!svn/ver/8211/trunk/numpy/oldnumeric/misc.py
+END
+precision.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/numpy/!svn/ver/5349/trunk/numpy/oldnumeric/precision.py
+END
+ma.py
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/numpy/!svn/ver/8188/trunk/numpy/oldnumeric/ma.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/numpy/!svn/ver/5305/trunk/numpy/oldnumeric/__init__.py
+END
+setup.py
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/numpy/!svn/ver/5349/trunk/numpy/oldnumeric/setup.py
+END
+ufuncs.py
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/numpy/!svn/ver/3501/trunk/numpy/oldnumeric/ufuncs.py
+END
+rng_stats.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/numpy/!svn/ver/3094/trunk/numpy/oldnumeric/rng_stats.py
+END
+matrix.py
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/numpy/!svn/ver/4330/trunk/numpy/oldnumeric/matrix.py
+END
+setupscons.py
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/numpy/!svn/ver/4773/trunk/numpy/oldnumeric/setupscons.py
+END
+typeconv.py
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/numpy/!svn/ver/4659/trunk/numpy/oldnumeric/typeconv.py
+END
+functions.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/numpy/!svn/ver/4659/trunk/numpy/oldnumeric/functions.py
+END
+mlab.py
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/numpy/!svn/ver/8471/trunk/numpy/oldnumeric/mlab.py
+END
+user_array.py
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/numpy/!svn/ver/3072/trunk/numpy/oldnumeric/user_array.py
+END
+fix_default_axis.py
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/numpy/!svn/ver/3501/trunk/numpy/oldnumeric/fix_default_axis.py
+END
+random_array.py
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/numpy/!svn/ver/5524/trunk/numpy/oldnumeric/random_array.py
+END
+fft.py
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/numpy/!svn/ver/2962/trunk/numpy/oldnumeric/fft.py
+END
+array_printer.py
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/numpy/!svn/ver/2957/trunk/numpy/oldnumeric/array_printer.py
+END
+alter_code1.py
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/numpy/!svn/ver/3501/trunk/numpy/oldnumeric/alter_code1.py
+END
+compat.py
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/numpy/!svn/ver/8211/trunk/numpy/oldnumeric/compat.py
+END
+alter_code2.py
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/numpy/!svn/ver/3501/trunk/numpy/oldnumeric/alter_code2.py
+END
+arrayfns.py
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/numpy/!svn/ver/6284/trunk/numpy/oldnumeric/arrayfns.py
+END
+rng.py
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/numpy/!svn/ver/6284/trunk/numpy/oldnumeric/rng.py
+END
+linear_algebra.py
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/numpy/!svn/ver/3501/trunk/numpy/oldnumeric/linear_algebra.py
+END

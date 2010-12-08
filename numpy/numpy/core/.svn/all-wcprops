@@ -1,0 +1,143 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/numpy/!svn/ver/8665/trunk/numpy/core
+END
+shape_base.py
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/numpy/!svn/ver/8608/trunk/numpy/core/shape_base.py
+END
+arrayprint.py
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/numpy/!svn/ver/8506/trunk/numpy/core/arrayprint.py
+END
+defchararray.py
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/numpy/!svn/ver/8151/trunk/numpy/core/defchararray.py
+END
+info.py
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/numpy/!svn/ver/3225/trunk/numpy/core/info.py
+END
+machar.py
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/numpy/!svn/ver/7439/trunk/numpy/core/machar.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/numpy/!svn/ver/7525/trunk/numpy/core/__init__.py
+END
+setup.py
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/numpy/!svn/ver/8657/trunk/numpy/core/setup.py
+END
+SConscript
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/numpy/!svn/ver/8574/trunk/numpy/core/SConscript
+END
+records.py
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/numpy/!svn/ver/8450/trunk/numpy/core/records.py
+END
+getlimits.py
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/numpy/!svn/ver/8487/trunk/numpy/core/getlimits.py
+END
+numeric.py
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/numpy/!svn/ver/8627/trunk/numpy/core/numeric.py
+END
+setupscons.py
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/numpy/!svn/ver/7346/trunk/numpy/core/setupscons.py
+END
+setup_common.py
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/numpy/!svn/ver/8510/trunk/numpy/core/setup_common.py
+END
+_internal.py
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/numpy/!svn/ver/8626/trunk/numpy/core/_internal.py
+END
+_mx_datetime_parser.py
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/numpy/!svn/ver/7339/trunk/numpy/core/_mx_datetime_parser.py
+END
+memmap.py
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/numpy/!svn/ver/8450/trunk/numpy/core/memmap.py
+END
+npymath.ini.in
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/numpy/!svn/ver/7998/trunk/numpy/core/npymath.ini.in
+END
+function_base.py
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/numpy/!svn/ver/8032/trunk/numpy/core/function_base.py
+END
+mlib.ini.in
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/numpy/!svn/ver/7236/trunk/numpy/core/mlib.ini.in
+END
+SConstruct
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/numpy/!svn/ver/5270/trunk/numpy/core/SConstruct
+END
+scons_support.py
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/numpy/!svn/ver/7707/trunk/numpy/core/scons_support.py
+END
+fromnumeric.py
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/numpy/!svn/ver/8558/trunk/numpy/core/fromnumeric.py
+END
+numerictypes.py
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/numpy/!svn/ver/8199/trunk/numpy/core/numerictypes.py
+END

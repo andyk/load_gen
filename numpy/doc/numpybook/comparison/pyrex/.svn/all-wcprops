@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/numpy/!svn/ver/8113/trunk/doc/numpybook/comparison/pyrex
+END
+timeme
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/numpy/!svn/ver/5684/trunk/doc/numpybook/comparison/pyrex/timeme
+END
+c_numpy.pxd
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/numpy/!svn/ver/8113/trunk/doc/numpybook/comparison/pyrex/c_numpy.pxd
+END
+filter.pyx
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/numpy/!svn/ver/5684/trunk/doc/numpybook/comparison/pyrex/filter.pyx
+END
+filter.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/numpy/!svn/ver/5684/trunk/doc/numpybook/comparison/pyrex/filter.c
+END
+add.pyx
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/numpy/!svn/ver/5684/trunk/doc/numpybook/comparison/pyrex/add.pyx
+END
+setup.py
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/numpy/!svn/ver/5743/trunk/doc/numpybook/comparison/pyrex/setup.py
+END
+add.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/numpy/!svn/ver/5684/trunk/doc/numpybook/comparison/pyrex/add.c
+END

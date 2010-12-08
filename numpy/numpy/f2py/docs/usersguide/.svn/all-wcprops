@@ -1,0 +1,215 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/numpy/!svn/ver/1792/trunk/numpy/f2py/docs/usersguide
+END
+scalar_session.dat
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/numpy/!svn/ver/1792/trunk/numpy/f2py/docs/usersguide/scalar_session.dat
+END
+fib2.pyf
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/numpy/!svn/ver/1792/trunk/numpy/f2py/docs/usersguide/fib2.pyf
+END
+callback.f
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/numpy/!svn/ver/1792/trunk/numpy/f2py/docs/usersguide/callback.f
+END
+calculate.f
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/numpy/!svn/ver/1792/trunk/numpy/f2py/docs/usersguide/calculate.f
+END
+run_main_session.dat
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/numpy/!svn/ver/1792/trunk/numpy/f2py/docs/usersguide/run_main_session.dat
+END
+index.txt
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/numpy/!svn/ver/1792/trunk/numpy/f2py/docs/usersguide/index.txt
+END
+var.pyf
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/numpy/!svn/ver/1792/trunk/numpy/f2py/docs/usersguide/var.pyf
+END
+string.f
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/numpy/!svn/ver/1792/trunk/numpy/f2py/docs/usersguide/string.f
+END
+spam.pyf
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/numpy/!svn/ver/1792/trunk/numpy/f2py/docs/usersguide/spam.pyf
+END
+ftype_session.dat
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/numpy/!svn/ver/1792/trunk/numpy/f2py/docs/usersguide/ftype_session.dat
+END
+extcallback.f
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/numpy/!svn/ver/1792/trunk/numpy/f2py/docs/usersguide/extcallback.f
+END
+setup_example.py
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/numpy/!svn/ver/1792/trunk/numpy/f2py/docs/usersguide/setup_example.py
+END
+array.f
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/numpy/!svn/ver/1792/trunk/numpy/f2py/docs/usersguide/array.f
+END
+common_session.dat
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/numpy/!svn/ver/1792/trunk/numpy/f2py/docs/usersguide/common_session.dat
+END
+var_session.dat
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/numpy/!svn/ver/1792/trunk/numpy/f2py/docs/usersguide/var_session.dat
+END
+callback_session.dat
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/numpy/!svn/ver/1792/trunk/numpy/f2py/docs/usersguide/callback_session.dat
+END
+moddata.f90
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/numpy/!svn/ver/1792/trunk/numpy/f2py/docs/usersguide/moddata.f90
+END
+calculate_session.dat
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/numpy/!svn/ver/1792/trunk/numpy/f2py/docs/usersguide/calculate_session.dat
+END
+docutils.conf
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/numpy/!svn/ver/1792/trunk/numpy/f2py/docs/usersguide/docutils.conf
+END
+spam_session.dat
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/numpy/!svn/ver/1792/trunk/numpy/f2py/docs/usersguide/spam_session.dat
+END
+callback2.pyf
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/numpy/!svn/ver/1792/trunk/numpy/f2py/docs/usersguide/callback2.pyf
+END
+string_session.dat
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/numpy/!svn/ver/1792/trunk/numpy/f2py/docs/usersguide/string_session.dat
+END
+moddata_session.dat
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/numpy/!svn/ver/1792/trunk/numpy/f2py/docs/usersguide/moddata_session.dat
+END
+extcallback_session.dat
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/numpy/!svn/ver/1792/trunk/numpy/f2py/docs/usersguide/extcallback_session.dat
+END
+array_session.dat
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/numpy/!svn/ver/1792/trunk/numpy/f2py/docs/usersguide/array_session.dat
+END
+scalar.f
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/numpy/!svn/ver/1792/trunk/numpy/f2py/docs/usersguide/scalar.f
+END
+allocarr.f90
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/numpy/!svn/ver/1792/trunk/numpy/f2py/docs/usersguide/allocarr.f90
+END
+compile_session.dat
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/numpy/!svn/ver/1792/trunk/numpy/f2py/docs/usersguide/compile_session.dat
+END
+fib1.f
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/numpy/!svn/ver/1792/trunk/numpy/f2py/docs/usersguide/fib1.f
+END
+fib3.f
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/numpy/!svn/ver/1792/trunk/numpy/f2py/docs/usersguide/fib3.f
+END
+allocarr_session.dat
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/numpy/!svn/ver/1792/trunk/numpy/f2py/docs/usersguide/allocarr_session.dat
+END
+ftype.f
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/numpy/!svn/ver/1792/trunk/numpy/f2py/docs/usersguide/ftype.f
+END
+default.css
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/numpy/!svn/ver/1792/trunk/numpy/f2py/docs/usersguide/default.css
+END
+common.f
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/numpy/!svn/ver/1792/trunk/numpy/f2py/docs/usersguide/common.f
+END
+fib1.pyf
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/numpy/!svn/ver/1792/trunk/numpy/f2py/docs/usersguide/fib1.pyf
+END

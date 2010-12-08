@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/numpy/!svn/ver/8665/trunk/numpy/core/include/numpy
+END
+noprefix.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/numpy/!svn/ver/7573/trunk/numpy/core/include/numpy/noprefix.h
+END
+numpyconfig.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/numpy/!svn/ver/7790/trunk/numpy/core/include/numpy/numpyconfig.h
+END
+utils.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/numpy/!svn/ver/7573/trunk/numpy/core/include/numpy/utils.h
+END
+oldnumeric.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/numpy/!svn/ver/3451/trunk/numpy/core/include/numpy/oldnumeric.h
+END
+_numpyconfig.h.in
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/numpy/!svn/ver/8541/trunk/numpy/core/include/numpy/_numpyconfig.h.in
+END
+arrayobject.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/numpy/!svn/ver/3054/trunk/numpy/core/include/numpy/arrayobject.h
+END
+ufuncobject.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/numpy/!svn/ver/7573/trunk/numpy/core/include/numpy/ufuncobject.h
+END
+npy_3kcompat.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/numpy/!svn/ver/8665/trunk/numpy/core/include/numpy/npy_3kcompat.h
+END
+npy_os.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/numpy/!svn/ver/7705/trunk/numpy/core/include/numpy/npy_os.h
+END
+old_defines.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/numpy/!svn/ver/7339/trunk/numpy/core/include/numpy/old_defines.h
+END
+npy_cpu.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/numpy/!svn/ver/8296/trunk/numpy/core/include/numpy/npy_cpu.h
+END
+npy_common.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/numpy/!svn/ver/8119/trunk/numpy/core/include/numpy/npy_common.h
+END
+npy_math.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/numpy/!svn/ver/8624/trunk/numpy/core/include/numpy/npy_math.h
+END
+npy_interrupt.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/numpy/!svn/ver/3451/trunk/numpy/core/include/numpy/npy_interrupt.h
+END
+_neighborhood_iterator_imp.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/numpy/!svn/ver/7452/trunk/numpy/core/include/numpy/_neighborhood_iterator_imp.h
+END
+npy_endian.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/numpy/!svn/ver/7355/trunk/numpy/core/include/numpy/npy_endian.h
+END
+ndarraytypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/numpy/!svn/ver/8622/trunk/numpy/core/include/numpy/ndarraytypes.h
+END
+ndarrayobject.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/numpy/!svn/ver/8397/trunk/numpy/core/include/numpy/ndarrayobject.h
+END
+arrayscalars.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/numpy/!svn/ver/7573/trunk/numpy/core/include/numpy/arrayscalars.h
+END

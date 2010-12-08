@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/numpy/!svn/ver/1792/trunk/numpy/f2py/doc/ex1
+END
+foobar.f90
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/numpy/!svn/ver/1792/trunk/numpy/f2py/doc/ex1/foobar.f90
+END
+runme
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/numpy/!svn/ver/1792/trunk/numpy/f2py/doc/ex1/runme
+END
+foo.f
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/numpy/!svn/ver/1792/trunk/numpy/f2py/doc/ex1/foo.f
+END
+arr.f
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/numpy/!svn/ver/1792/trunk/numpy/f2py/doc/ex1/arr.f
+END
+bar.f
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/numpy/!svn/ver/1792/trunk/numpy/f2py/doc/ex1/bar.f
+END
+foobar-smart.f90
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/numpy/!svn/ver/1792/trunk/numpy/f2py/doc/ex1/foobar-smart.f90
+END
+foobarmodule.tex
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/numpy/!svn/ver/1792/trunk/numpy/f2py/doc/ex1/foobarmodule.tex
+END

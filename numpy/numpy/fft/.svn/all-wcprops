@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/numpy/!svn/ver/8403/trunk/numpy/fft
+END
+fftpack.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/numpy/!svn/ver/3468/trunk/numpy/fft/fftpack.c
+END
+fftpack_litemodule.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/numpy/!svn/ver/7919/trunk/numpy/fft/fftpack_litemodule.c
+END
+info.py
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/numpy/!svn/ver/7432/trunk/numpy/fft/info.py
+END
+fftpack.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/numpy/!svn/ver/2954/trunk/numpy/fft/fftpack.h
+END
+fftpack.py
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/numpy/!svn/ver/8059/trunk/numpy/fft/fftpack.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/numpy/!svn/ver/6725/trunk/numpy/fft/__init__.py
+END
+helper.py
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/numpy/!svn/ver/8403/trunk/numpy/fft/helper.py
+END
+SConscript
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/numpy/!svn/ver/7575/trunk/numpy/fft/SConscript
+END
+SConstruct
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/numpy/!svn/ver/5278/trunk/numpy/fft/SConstruct
+END
+setup.py
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/numpy/!svn/ver/3745/trunk/numpy/fft/setup.py
+END
+setupscons.py
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/numpy/!svn/ver/4775/trunk/numpy/fft/setupscons.py
+END

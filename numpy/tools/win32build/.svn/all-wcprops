@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/numpy/!svn/ver/7808/trunk/tools/win32build
+END
+doall.py
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/numpy/!svn/ver/5897/trunk/tools/win32build/doall.py
+END
+prepare_bootstrap.py
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/numpy/!svn/ver/5743/trunk/tools/win32build/prepare_bootstrap.py
+END
+build.py
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/numpy/!svn/ver/6649/trunk/tools/win32build/build.py
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/numpy/!svn/ver/5558/trunk/tools/win32build/README.txt
+END

@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/numpy/!svn/ver/8461/trunk/doc/neps
+END
+structured_array_extensions.txt
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/numpy/!svn/ver/8461/trunk/doc/neps/structured_array_extensions.txt
+END
+datetime-proposal.rst
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/numpy/!svn/ver/7769/trunk/doc/neps/datetime-proposal.rst
+END
+generalized-ufuncs.rst
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/numpy/!svn/ver/6044/trunk/doc/neps/generalized-ufuncs.rst
+END
+datetime-proposal3.rst
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/numpy/!svn/ver/7134/trunk/doc/neps/datetime-proposal3.rst
+END
+newbugtracker.rst
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/numpy/!svn/ver/6507/trunk/doc/neps/newbugtracker.rst
+END
+npy-format.txt
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/numpy/!svn/ver/5730/trunk/doc/neps/npy-format.txt
+END
+pep_buffer.txt
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/numpy/!svn/ver/5730/trunk/doc/neps/pep_buffer.txt
+END
+groupby_additions.rst
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/numpy/!svn/ver/8373/trunk/doc/neps/groupby_additions.rst
+END
+warnfix.txt
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/numpy/!svn/ver/5753/trunk/doc/neps/warnfix.txt
+END
+math_config_clean.txt
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/numpy/!svn/ver/5755/trunk/doc/neps/math_config_clean.txt
+END

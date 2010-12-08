@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/numpy/!svn/ver/8451/trunk/numpy/linalg
+END
+blas_lite.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/numpy/!svn/ver/4997/trunk/numpy/linalg/blas_lite.c
+END
+info.py
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/numpy/!svn/ver/4968/trunk/numpy/linalg/info.py
+END
+zlapack_lite.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/numpy/!svn/ver/2400/trunk/numpy/linalg/zlapack_lite.c
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/numpy/!svn/ver/8384/trunk/numpy/linalg/__init__.py
+END
+SConscript
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/numpy/!svn/ver/5367/trunk/numpy/linalg/SConscript
+END
+setup.py
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/numpy/!svn/ver/7853/trunk/numpy/linalg/setup.py
+END
+dlapack_lite.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/numpy/!svn/ver/4914/trunk/numpy/linalg/dlapack_lite.c
+END
+linalg.py
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/numpy/!svn/ver/8451/trunk/numpy/linalg/linalg.py
+END
+setupscons.py
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/numpy/!svn/ver/5580/trunk/numpy/linalg/setupscons.py
+END
+lapack_litemodule.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/numpy/!svn/ver/8406/trunk/numpy/linalg/lapack_litemodule.c
+END
+python_xerbla.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/numpy/!svn/ver/5110/trunk/numpy/linalg/python_xerbla.c
+END
+f2c.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/numpy/!svn/ver/2400/trunk/numpy/linalg/f2c.h
+END
+SConstruct
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/numpy/!svn/ver/5279/trunk/numpy/linalg/SConstruct
+END
+f2c_lite.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/numpy/!svn/ver/2400/trunk/numpy/linalg/f2c_lite.c
+END
+dlamch.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/numpy/!svn/ver/2808/trunk/numpy/linalg/dlamch.c
+END

@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/numpy/!svn/ver/7580/trunk/numpy/f2py/doc
+END
+notes.tex
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/numpy/!svn/ver/1792/trunk/numpy/f2py/doc/notes.tex
+END
+win32_notes.txt
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/numpy/!svn/ver/7580/trunk/numpy/f2py/doc/win32_notes.txt
+END
+options.tex
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/numpy/!svn/ver/1792/trunk/numpy/f2py/doc/options.tex
+END
+multiarrays.txt
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/numpy/!svn/ver/1792/trunk/numpy/f2py/doc/multiarrays.txt
+END
+intro.tex
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/numpy/!svn/ver/1792/trunk/numpy/f2py/doc/intro.tex
+END
+collectinput.py
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/numpy/!svn/ver/5829/trunk/numpy/f2py/doc/collectinput.py
+END
+bugs.tex
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/numpy/!svn/ver/1792/trunk/numpy/f2py/doc/bugs.tex
+END
+signaturefile.tex
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/numpy/!svn/ver/1792/trunk/numpy/f2py/doc/signaturefile.tex
+END
+commands.tex
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/numpy/!svn/ver/1792/trunk/numpy/f2py/doc/commands.tex
+END
+fortranobject.tex
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/numpy/!svn/ver/1792/trunk/numpy/f2py/doc/fortranobject.tex
+END
+using_F_compiler.txt
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/numpy/!svn/ver/1792/trunk/numpy/f2py/doc/using_F_compiler.txt
+END
+Release-1.x.txt
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/numpy/!svn/ver/1792/trunk/numpy/f2py/doc/Release-1.x.txt
+END
+apps.tex
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/numpy/!svn/ver/1792/trunk/numpy/f2py/doc/apps.tex
+END
+Release-2.x.txt
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/numpy/!svn/ver/1792/trunk/numpy/f2py/doc/Release-2.x.txt
+END
+Release-3.x.txt
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/numpy/!svn/ver/1792/trunk/numpy/f2py/doc/Release-3.x.txt
+END
+Release-4.x.txt
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/numpy/!svn/ver/1792/trunk/numpy/f2py/doc/Release-4.x.txt
+END
+f2py2e.tex
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/numpy/!svn/ver/1792/trunk/numpy/f2py/doc/f2py2e.tex
+END
+python9.tex
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/numpy/!svn/ver/7580/trunk/numpy/f2py/doc/python9.tex
+END
+index.html
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/numpy/!svn/ver/1960/trunk/numpy/f2py/doc/index.html
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/numpy/!svn/ver/1792/trunk/numpy/f2py/doc/Makefile
+END
+oldnews.html
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/numpy/!svn/ver/1792/trunk/numpy/f2py/doc/oldnews.html
+END

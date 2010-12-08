@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/numpy/!svn/ver/5240/trunk/tools/win32build/cpuid
+END
+test.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/numpy/!svn/ver/5240/trunk/tools/win32build/cpuid/test.c
+END
+cpuid.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/numpy/!svn/ver/5240/trunk/tools/win32build/cpuid/cpuid.c
+END
+SConstruct
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/numpy/!svn/ver/5240/trunk/tools/win32build/cpuid/SConstruct
+END
+cpuid.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/numpy/!svn/ver/5240/trunk/tools/win32build/cpuid/cpuid.h
+END

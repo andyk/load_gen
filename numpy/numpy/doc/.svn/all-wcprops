@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/numpy/!svn/ver/8128/trunk/numpy/doc
+END
+misc.py
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/numpy/!svn/ver/8127/trunk/numpy/doc/misc.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/numpy/!svn/ver/8032/trunk/numpy/doc/__init__.py
+END
+internals.py
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/numpy/!svn/ver/5681/trunk/numpy/doc/internals.py
+END
+broadcasting.py
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/numpy/!svn/ver/7433/trunk/numpy/doc/broadcasting.py
+END
+howtofind.py
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/numpy/!svn/ver/5681/trunk/numpy/doc/howtofind.py
+END
+performance.py
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/numpy/!svn/ver/5681/trunk/numpy/doc/performance.py
+END
+ufuncs.py
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/numpy/!svn/ver/8127/trunk/numpy/doc/ufuncs.py
+END
+glossary.py
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/numpy/!svn/ver/8032/trunk/numpy/doc/glossary.py
+END
+methods_vs_functions.py
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/numpy/!svn/ver/5681/trunk/numpy/doc/methods_vs_functions.py
+END
+basics.py
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/numpy/!svn/ver/8127/trunk/numpy/doc/basics.py
+END
+creation.py
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/numpy/!svn/ver/8127/trunk/numpy/doc/creation.py
+END
+indexing.py
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/numpy/!svn/ver/8127/trunk/numpy/doc/indexing.py
+END
+io.py
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/numpy/!svn/ver/5681/trunk/numpy/doc/io.py
+END
+byteswapping.py
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/numpy/!svn/ver/7448/trunk/numpy/doc/byteswapping.py
+END
+constants.py
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/numpy/!svn/ver/8128/trunk/numpy/doc/constants.py
+END
+subclassing.py
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/numpy/!svn/ver/7317/trunk/numpy/doc/subclassing.py
+END
+jargon.py
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/numpy/!svn/ver/5681/trunk/numpy/doc/jargon.py
+END
+structured_arrays.py
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/numpy/!svn/ver/8032/trunk/numpy/doc/structured_arrays.py
+END

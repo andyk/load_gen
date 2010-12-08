@@ -1,0 +1,353 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/numpy/!svn/ver/8588/trunk/numpy/core/src/multiarray
+END
+calculation.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/numpy/!svn/ver/8505/trunk/numpy/core/src/multiarray/calculation.c
+END
+ctors.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/numpy/!svn/ver/7339/trunk/numpy/core/src/multiarray/ctors.h
+END
+multiarraymodule_onefile.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/numpy/!svn/ver/8186/trunk/numpy/core/src/multiarray/multiarraymodule_onefile.c
+END
+multiarray_tests.c.src
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/numpy/!svn/ver/8481/trunk/numpy/core/src/multiarray/multiarray_tests.c.src
+END
+calculation.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/numpy/!svn/ver/7546/trunk/numpy/core/src/multiarray/calculation.h
+END
+arrayobject.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/numpy/!svn/ver/8481/trunk/numpy/core/src/multiarray/arrayobject.c
+END
+conversion_utils.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/numpy/!svn/ver/8481/trunk/numpy/core/src/multiarray/conversion_utils.c
+END
+arrayobject.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/numpy/!svn/ver/7005/trunk/numpy/core/src/multiarray/arrayobject.h
+END
+conversion_utils.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/numpy/!svn/ver/6950/trunk/numpy/core/src/multiarray/conversion_utils.h
+END
+convert_datatype.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/numpy/!svn/ver/8588/trunk/numpy/core/src/multiarray/convert_datatype.c
+END
+descriptor.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/numpy/!svn/ver/8481/trunk/numpy/core/src/multiarray/descriptor.c
+END
+convert_datatype.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/numpy/!svn/ver/6920/trunk/numpy/core/src/multiarray/convert_datatype.h
+END
+scalartypes.c.src
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/numpy/!svn/ver/8486/trunk/numpy/core/src/multiarray/scalartypes.c.src
+END
+descriptor.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/numpy/!svn/ver/7802/trunk/numpy/core/src/multiarray/descriptor.h
+END
+refcount.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/numpy/!svn/ver/8481/trunk/numpy/core/src/multiarray/refcount.c
+END
+number.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/numpy/!svn/ver/8481/trunk/numpy/core/src/multiarray/number.c
+END
+arraytypes.c.src
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/numpy/!svn/ver/8509/trunk/numpy/core/src/multiarray/arraytypes.c.src
+END
+refcount.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/numpy/!svn/ver/6948/trunk/numpy/core/src/multiarray/refcount.h
+END
+getset.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/numpy/!svn/ver/8481/trunk/numpy/core/src/multiarray/getset.c
+END
+mapping.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/numpy/!svn/ver/8535/trunk/numpy/core/src/multiarray/mapping.c
+END
+numpymemoryview.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/numpy/!svn/ver/8481/trunk/numpy/core/src/multiarray/numpymemoryview.c
+END
+number.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/numpy/!svn/ver/6963/trunk/numpy/core/src/multiarray/number.h
+END
+scalartypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/numpy/!svn/ver/8485/trunk/numpy/core/src/multiarray/scalartypes.h
+END
+scalarapi.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/numpy/!svn/ver/8481/trunk/numpy/core/src/multiarray/scalarapi.c
+END
+multiarraymodule.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/numpy/!svn/ver/8481/trunk/numpy/core/src/multiarray/multiarraymodule.c
+END
+shape.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/numpy/!svn/ver/8481/trunk/numpy/core/src/multiarray/shape.c
+END
+_datetime.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/numpy/!svn/ver/7551/trunk/numpy/core/src/multiarray/_datetime.h
+END
+getset.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/numpy/!svn/ver/6968/trunk/numpy/core/src/multiarray/getset.h
+END
+mapping.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/numpy/!svn/ver/7005/trunk/numpy/core/src/multiarray/mapping.h
+END
+numpymemoryview.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/numpy/!svn/ver/8152/trunk/numpy/core/src/multiarray/numpymemoryview.h
+END
+methods.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/numpy/!svn/ver/8548/trunk/numpy/core/src/multiarray/methods.c
+END
+item_selection.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/numpy/!svn/ver/8572/trunk/numpy/core/src/multiarray/item_selection.c
+END
+usertypes.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/numpy/!svn/ver/8481/trunk/numpy/core/src/multiarray/usertypes.c
+END
+hashdescr.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/numpy/!svn/ver/8481/trunk/numpy/core/src/multiarray/hashdescr.c
+END
+multiarraymodule.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/numpy/!svn/ver/6922/trunk/numpy/core/src/multiarray/multiarraymodule.h
+END
+shape.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/numpy/!svn/ver/6916/trunk/numpy/core/src/multiarray/shape.h
+END
+arraytypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/numpy/!svn/ver/6970/trunk/numpy/core/src/multiarray/arraytypes.h
+END
+methods.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/numpy/!svn/ver/6968/trunk/numpy/core/src/multiarray/methods.h
+END
+sequence.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/numpy/!svn/ver/8481/trunk/numpy/core/src/multiarray/sequence.c
+END
+usertypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/numpy/!svn/ver/6937/trunk/numpy/core/src/multiarray/usertypes.h
+END
+hashdescr.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/numpy/!svn/ver/6916/trunk/numpy/core/src/multiarray/hashdescr.h
+END
+buffer.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/numpy/!svn/ver/8481/trunk/numpy/core/src/multiarray/buffer.c
+END
+numpyos.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/numpy/!svn/ver/8481/trunk/numpy/core/src/multiarray/numpyos.c
+END
+iterators.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/numpy/!svn/ver/8481/trunk/numpy/core/src/multiarray/iterators.c
+END
+sequence.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/numpy/!svn/ver/6937/trunk/numpy/core/src/multiarray/sequence.h
+END
+buffer.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/numpy/!svn/ver/8136/trunk/numpy/core/src/multiarray/buffer.h
+END
+numpyos.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/numpy/!svn/ver/8136/trunk/numpy/core/src/multiarray/numpyos.h
+END
+convert.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/numpy/!svn/ver/8481/trunk/numpy/core/src/multiarray/convert.c
+END
+iterators.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/numpy/!svn/ver/6928/trunk/numpy/core/src/multiarray/iterators.h
+END
+flagsobject.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/numpy/!svn/ver/8481/trunk/numpy/core/src/multiarray/flagsobject.c
+END
+ucsnarrow.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/numpy/!svn/ver/8481/trunk/numpy/core/src/multiarray/ucsnarrow.c
+END
+convert.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/numpy/!svn/ver/6916/trunk/numpy/core/src/multiarray/convert.h
+END
+common.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/numpy/!svn/ver/8481/trunk/numpy/core/src/multiarray/common.c
+END
+ucsnarrow.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/numpy/!svn/ver/6916/trunk/numpy/core/src/multiarray/ucsnarrow.h
+END
+ctors.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/numpy/!svn/ver/8481/trunk/numpy/core/src/multiarray/ctors.c
+END
+testcalcs.py
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/numpy/!svn/ver/7563/trunk/numpy/core/src/multiarray/testcalcs.py
+END
+datetime.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/numpy/!svn/ver/8481/trunk/numpy/core/src/multiarray/datetime.c
+END
+common.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/numpy/!svn/ver/7339/trunk/numpy/core/src/multiarray/common.h
+END

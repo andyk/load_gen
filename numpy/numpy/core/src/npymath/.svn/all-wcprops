@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/numpy/!svn/ver/8526/trunk/numpy/core/src/npymath
+END
+_signbit.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/numpy/!svn/ver/7086/trunk/numpy/core/src/npymath/_signbit.c
+END
+npy_math_private.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/numpy/!svn/ver/8526/trunk/numpy/core/src/npymath/npy_math_private.h
+END
+npy_math.c.src
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/numpy/!svn/ver/8322/trunk/numpy/core/src/npymath/npy_math.c.src
+END
+npy_math_common.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/numpy/!svn/ver/7702/trunk/numpy/core/src/npymath/npy_math_common.h
+END
+npy_math_complex.c.src
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/numpy/!svn/ver/8446/trunk/numpy/core/src/npymath/npy_math_complex.c.src
+END
+ieee754.c.src
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/numpy/!svn/ver/8511/trunk/numpy/core/src/npymath/ieee754.c.src
+END

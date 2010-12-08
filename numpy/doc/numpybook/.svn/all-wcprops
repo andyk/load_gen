@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/numpy/!svn/ver/8113/trunk/doc/numpybook
+END
+runcode.py
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/numpy/!svn/ver/5743/trunk/doc/numpybook/runcode.py
+END
+capi.lyx
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/numpy/!svn/ver/8113/trunk/doc/numpybook/capi.lyx
+END
+mybook.layout
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/numpy/!svn/ver/5684/trunk/doc/numpybook/mybook.layout
+END
+numpybook.lyx
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/numpy/!svn/ver/5693/trunk/doc/numpybook/numpybook.lyx
+END

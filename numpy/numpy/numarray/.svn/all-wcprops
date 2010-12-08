@@ -1,0 +1,143 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/numpy/!svn/ver/8491/trunk/numpy/numarray
+END
+convolve.py
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/numpy/!svn/ver/3501/trunk/numpy/numarray/convolve.py
+END
+ma.py
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/numpy/!svn/ver/2993/trunk/numpy/numarray/ma.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/numpy/!svn/ver/5305/trunk/numpy/numarray/__init__.py
+END
+setup.py
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/numpy/!svn/ver/8212/trunk/numpy/numarray/setup.py
+END
+SConscript
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/numpy/!svn/ver/7988/trunk/numpy/numarray/SConscript
+END
+ufuncs.py
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/numpy/!svn/ver/2982/trunk/numpy/numarray/ufuncs.py
+END
+nd_image.py
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/numpy/!svn/ver/2970/trunk/numpy/numarray/nd_image.py
+END
+matrix.py
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/numpy/!svn/ver/4332/trunk/numpy/numarray/matrix.py
+END
+_capi.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/numpy/!svn/ver/8491/trunk/numpy/numarray/_capi.c
+END
+setupscons.py
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/numpy/!svn/ver/8212/trunk/numpy/numarray/setupscons.py
+END
+functions.py
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/numpy/!svn/ver/8213/trunk/numpy/numarray/functions.py
+END
+mlab.py
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/numpy/!svn/ver/2993/trunk/numpy/numarray/mlab.py
+END
+util.py
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/numpy/!svn/ver/8252/trunk/numpy/numarray/util.py
+END
+random_array.py
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/numpy/!svn/ver/2993/trunk/numpy/numarray/random_array.py
+END
+fft.py
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/numpy/!svn/ver/2993/trunk/numpy/numarray/fft.py
+END
+SConstruct
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/numpy/!svn/ver/5277/trunk/numpy/numarray/SConstruct
+END
+image.py
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/numpy/!svn/ver/4332/trunk/numpy/numarray/image.py
+END
+alter_code1.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/numpy/!svn/ver/3501/trunk/numpy/numarray/alter_code1.py
+END
+compat.py
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/numpy/!svn/ver/2982/trunk/numpy/numarray/compat.py
+END
+alter_code2.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/numpy/!svn/ver/5808/trunk/numpy/numarray/alter_code2.py
+END
+session.py
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/numpy/!svn/ver/5808/trunk/numpy/numarray/session.py
+END
+linear_algebra.py
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/numpy/!svn/ver/3458/trunk/numpy/numarray/linear_algebra.py
+END
+numerictypes.py
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/numpy/!svn/ver/5808/trunk/numpy/numarray/numerictypes.py
+END

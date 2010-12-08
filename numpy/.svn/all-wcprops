@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 30
+/svn/numpy/!svn/ver/8674/trunk
+END
+setupsconsegg.py
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/numpy/!svn/ver/5667/trunk/setupsconsegg.py
+END
+INSTALL.txt
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/numpy/!svn/ver/6839/trunk/INSTALL.txt
+END
+TEST_COMMIT
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/numpy/!svn/ver/8055/trunk/TEST_COMMIT
+END
+setup.py
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/numpy/!svn/ver/8598/trunk/setup.py
+END
+release.sh
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/numpy/!svn/ver/7810/trunk/release.sh
+END
+site.cfg.example
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/numpy/!svn/ver/5189/trunk/site.cfg.example
+END
+setupscons.py
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/numpy/!svn/ver/7001/trunk/setupscons.py
+END
+LICENSE.txt
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/numpy/!svn/ver/6307/trunk/LICENSE.txt
+END
+THANKS.txt
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/numpy/!svn/ver/6295/trunk/THANKS.txt
+END
+pavement.py
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/numpy/!svn/ver/8601/trunk/pavement.py
+END
+COMPATIBILITY
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/numpy/!svn/ver/3722/trunk/COMPATIBILITY
+END
+DEV_README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/numpy/!svn/ver/6545/trunk/DEV_README.txt
+END
+setupegg.py
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/numpy/!svn/ver/8655/trunk/setupegg.py
+END
+MANIFEST.in
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/numpy/!svn/ver/8598/trunk/MANIFEST.in
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/numpy/!svn/ver/7513/trunk/README.txt
+END

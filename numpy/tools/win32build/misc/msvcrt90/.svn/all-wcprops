@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/numpy/!svn/ver/6509/trunk/tools/win32build/misc/msvcrt90
+END
+msvcrt.def.in
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/numpy/!svn/ver/6477/trunk/tools/win32build/misc/msvcrt90/msvcrt.def.in
+END
+yop.sh
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/numpy/!svn/ver/6477/trunk/tools/win32build/misc/msvcrt90/yop.sh
+END

@@ -1,0 +1,155 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/numpy/!svn/ver/8673/trunk/numpy/distutils
+END
+misc_util.py
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/numpy/!svn/ver/8527/trunk/numpy/distutils/misc_util.py
+END
+core.py
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/numpy/!svn/ver/7834/trunk/numpy/distutils/core.py
+END
+info.py
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/numpy/!svn/ver/2400/trunk/numpy/distutils/info.py
+END
+npy_pkg_config.py
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/numpy/!svn/ver/8555/trunk/numpy/distutils/npy_pkg_config.py
+END
+line_endings.py
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/numpy/!svn/ver/3829/trunk/numpy/distutils/line_endings.py
+END
+from_template.py
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/numpy/!svn/ver/7841/trunk/numpy/distutils/from_template.py
+END
+system_info.py
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/numpy/!svn/ver/8673/trunk/numpy/distutils/system_info.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/numpy/!svn/ver/7829/trunk/numpy/distutils/__init__.py
+END
+setup.py
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/numpy/!svn/ver/6650/trunk/numpy/distutils/setup.py
+END
+conv_template.py
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/numpy/!svn/ver/7841/trunk/numpy/distutils/conv_template.py
+END
+cpuinfo.py
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/numpy/!svn/ver/7856/trunk/numpy/distutils/cpuinfo.py
+END
+environment.py
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/numpy/!svn/ver/7845/trunk/numpy/distutils/environment.py
+END
+setupscons.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/numpy/!svn/ver/7347/trunk/numpy/distutils/setupscons.py
+END
+numpy_distribution.py
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/numpy/!svn/ver/7425/trunk/numpy/distutils/numpy_distribution.py
+END
+lib2def.py
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/numpy/!svn/ver/6292/trunk/numpy/distutils/lib2def.py
+END
+intelccompiler.py
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/numpy/!svn/ver/3829/trunk/numpy/distutils/intelccompiler.py
+END
+extension.py
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/numpy/!svn/ver/2400/trunk/numpy/distutils/extension.py
+END
+interactive.py
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/numpy/!svn/ver/5011/trunk/numpy/distutils/interactive.py
+END
+ccompiler.py
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/numpy/!svn/ver/8294/trunk/numpy/distutils/ccompiler.py
+END
+__version__.py
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/numpy/!svn/ver/2400/trunk/numpy/distutils/__version__.py
+END
+log.py
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/numpy/!svn/ver/7832/trunk/numpy/distutils/log.py
+END
+unixccompiler.py
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/numpy/!svn/ver/7835/trunk/numpy/distutils/unixccompiler.py
+END
+exec_command.py
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/numpy/!svn/ver/8405/trunk/numpy/distutils/exec_command.py
+END
+compat.py
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/numpy/!svn/ver/7831/trunk/numpy/distutils/compat.py
+END
+mingw32ccompiler.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/numpy/!svn/ver/8595/trunk/numpy/distutils/mingw32ccompiler.py
+END

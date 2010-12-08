@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/numpy/!svn/ver/5743/trunk/doc/numpybook/comparison/ctypes
+END
+newfile.dat
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/numpy/!svn/ver/5684/trunk/doc/numpybook/comparison/ctypes/newfile.dat
+END
+timeme
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/numpy/!svn/ver/5684/trunk/doc/numpybook/comparison/ctypes/timeme
+END
+interface.py
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/numpy/!svn/ver/5743/trunk/doc/numpybook/comparison/ctypes/interface.py
+END
+code.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/numpy/!svn/ver/5684/trunk/doc/numpybook/comparison/ctypes/code.c
+END
+filter.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/numpy/!svn/ver/5743/trunk/doc/numpybook/comparison/ctypes/filter.py
+END

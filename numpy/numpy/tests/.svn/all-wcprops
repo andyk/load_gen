@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/numpy/!svn/ver/8567/trunk/numpy/tests
+END
+test_ctypeslib.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/numpy/!svn/ver/6651/trunk/numpy/tests/test_ctypeslib.py
+END
+test_matlib.py
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/numpy/!svn/ver/8567/trunk/numpy/tests/test_matlib.py
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/numpy/!svn/ver/5743/trunk/tools/osxbuild
+END
+build.py
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/numpy/!svn/ver/5743/trunk/tools/osxbuild/build.py
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/numpy/!svn/ver/5646/trunk/tools/osxbuild/README.txt
+END
+install_and_test.py
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/numpy/!svn/ver/5743/trunk/tools/osxbuild/install_and_test.py
+END

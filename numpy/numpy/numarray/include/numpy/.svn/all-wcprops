@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/numpy/!svn/ver/8485/trunk/numpy/numarray/include/numpy
+END
+arraybase.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/numpy/!svn/ver/8212/trunk/numpy/numarray/include/numpy/arraybase.h
+END
+cfunc.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/numpy/!svn/ver/8212/trunk/numpy/numarray/include/numpy/cfunc.h
+END
+nummacro.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/numpy/!svn/ver/8212/trunk/numpy/numarray/include/numpy/nummacro.h
+END
+libnumarray.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/numpy/!svn/ver/8485/trunk/numpy/numarray/include/numpy/libnumarray.h
+END
+numcomplex.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/numpy/!svn/ver/8212/trunk/numpy/numarray/include/numpy/numcomplex.h
+END
+ieeespecial.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/numpy/!svn/ver/8212/trunk/numpy/numarray/include/numpy/ieeespecial.h
+END

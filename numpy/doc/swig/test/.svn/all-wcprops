@@ -1,0 +1,173 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/numpy/!svn/ver/5681/trunk/doc/swig/test
+END
+Array1.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/numpy/!svn/ver/5681/trunk/doc/swig/test/Array1.h
+END
+Farray.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/numpy/!svn/ver/5681/trunk/doc/swig/test/Farray.cxx
+END
+Array2.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/numpy/!svn/ver/5681/trunk/doc/swig/test/Array2.h
+END
+setup.py
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/numpy/!svn/ver/5681/trunk/doc/swig/test/setup.py
+END
+Vector.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/numpy/!svn/ver/5681/trunk/doc/swig/test/Vector.h
+END
+testVector.py
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/numpy/!svn/ver/5681/trunk/doc/swig/test/testVector.py
+END
+Vector.i
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/numpy/!svn/ver/5681/trunk/doc/swig/test/Vector.i
+END
+Matrix.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/numpy/!svn/ver/5681/trunk/doc/swig/test/Matrix.h
+END
+testMatrix.py
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/numpy/!svn/ver/5681/trunk/doc/swig/test/testMatrix.py
+END
+Matrix.i
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/numpy/!svn/ver/5681/trunk/doc/swig/test/Matrix.i
+END
+Tensor.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/numpy/!svn/ver/5681/trunk/doc/swig/test/Tensor.h
+END
+Array1.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/numpy/!svn/ver/5681/trunk/doc/swig/test/Array1.cxx
+END
+testTensor.py
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/numpy/!svn/ver/5681/trunk/doc/swig/test/testTensor.py
+END
+Tensor.i
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/numpy/!svn/ver/5681/trunk/doc/swig/test/Tensor.i
+END
+Array2.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/numpy/!svn/ver/5681/trunk/doc/swig/test/Array2.cxx
+END
+Fortran.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/numpy/!svn/ver/5681/trunk/doc/swig/test/Fortran.h
+END
+Fortran.i
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/numpy/!svn/ver/5681/trunk/doc/swig/test/Fortran.i
+END
+testFortran.py
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/numpy/!svn/ver/5681/trunk/doc/swig/test/testFortran.py
+END
+Vector.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/numpy/!svn/ver/5681/trunk/doc/swig/test/Vector.cxx
+END
+Matrix.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/numpy/!svn/ver/5681/trunk/doc/swig/test/Matrix.cxx
+END
+Array.i
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/numpy/!svn/ver/5681/trunk/doc/swig/test/Array.i
+END
+testArray.py
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/numpy/!svn/ver/5681/trunk/doc/swig/test/testArray.py
+END
+Farray.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/numpy/!svn/ver/5681/trunk/doc/swig/test/Farray.h
+END
+Tensor.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/numpy/!svn/ver/5681/trunk/doc/swig/test/Tensor.cxx
+END
+Farray.i
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/numpy/!svn/ver/5681/trunk/doc/swig/test/Farray.i
+END
+testFarray.py
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/numpy/!svn/ver/5681/trunk/doc/swig/test/testFarray.py
+END
+Fortran.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/numpy/!svn/ver/5681/trunk/doc/swig/test/Fortran.cxx
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/numpy/!svn/ver/5681/trunk/doc/swig/test/Makefile
+END

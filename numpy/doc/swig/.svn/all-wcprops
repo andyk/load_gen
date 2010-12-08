@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/numpy/!svn/ver/6893/trunk/doc/swig
+END
+numpy.i
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/numpy/!svn/ver/6893/trunk/doc/swig/numpy.i
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/numpy/!svn/ver/5681/trunk/doc/swig/Makefile
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/numpy/!svn/ver/5681/trunk/doc/swig/README
+END
+pyfragments.swg
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/numpy/!svn/ver/5681/trunk/doc/swig/pyfragments.swg
+END

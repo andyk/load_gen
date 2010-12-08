@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/numpy/!svn/ver/8674/trunk/numpy/lib/tests
+END
+test__datasource.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/numpy/!svn/ver/8170/trunk/numpy/lib/tests/test__datasource.py
+END
+test_shape_base.py
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/numpy/!svn/ver/7399/trunk/numpy/lib/tests/test_shape_base.py
+END
+test_twodim_base.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/numpy/!svn/ver/8617/trunk/numpy/lib/tests/test_twodim_base.py
+END
+test_utils.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/numpy/!svn/ver/7590/trunk/numpy/lib/tests/test_utils.py
+END
+test_recfunctions.py
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/numpy/!svn/ver/8306/trunk/numpy/lib/tests/test_recfunctions.py
+END
+test_io.py
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/numpy/!svn/ver/8489/trunk/numpy/lib/tests/test_io.py
+END
+test_stride_tricks.py
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/numpy/!svn/ver/5409/trunk/numpy/lib/tests/test_stride_tricks.py
+END
+test_arraysetops.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/numpy/!svn/ver/7152/trunk/numpy/lib/tests/test_arraysetops.py
+END
+test_type_check.py
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/numpy/!svn/ver/8396/trunk/numpy/lib/tests/test_type_check.py
+END
+test_arrayterator.py
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/numpy/!svn/ver/8188/trunk/numpy/lib/tests/test_arrayterator.py
+END
+test_function_base.py
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/numpy/!svn/ver/8674/trunk/numpy/lib/tests/test_function_base.py
+END
+test_regression.py
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/numpy/!svn/ver/8471/trunk/numpy/lib/tests/test_regression.py
+END
+test_polynomial.py
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/numpy/!svn/ver/8203/trunk/numpy/lib/tests/test_polynomial.py
+END
+test_financial.py
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/numpy/!svn/ver/8312/trunk/numpy/lib/tests/test_financial.py
+END
+test_ufunclike.py
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/numpy/!svn/ver/8351/trunk/numpy/lib/tests/test_ufunclike.py
+END
+test_index_tricks.py
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/numpy/!svn/ver/7394/trunk/numpy/lib/tests/test_index_tricks.py
+END
+test__iotools.py
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/numpy/!svn/ver/8182/trunk/numpy/lib/tests/test__iotools.py
+END
+test_format.py
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/numpy/!svn/ver/8178/trunk/numpy/lib/tests/test_format.py
+END
