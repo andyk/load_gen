@@ -18,6 +18,9 @@
 static char * host = NULL;
 static FILE * tracefile = NULL;
 static FILE * urlfile = NULL;
+static char * loadBalHostsFileName = NULL; //file holding urls to send load to
+static FILE * loadBalHostsFile = NULL;
+static char currentHost[301] = ""; //used by each request when in round-rob mode
 static FILE * logfile = NULL;
 static char * geturl = NULL;
 static double rate = -1;
@@ -138,6 +141,36 @@ void http_conn(struct evhttp_connection * evcon, void *arg)
 #define ROUND(a) ((int) (a / 10.0) * 10)
 #define PRINT_TIME(t) printf("%ld.%03d\n", (t).tv_sec, US_TO_MS((t).tv_usec))
 
+static int get_next_url(FILE *file, char *url)
+{
+  int rc;
+  if ((rc = fscanf(file, "%300s\n", url)) == 1)
+    return 1;
+
+  if (rc == EOF) {
+    rewind(file);
+    return (fscanf(file, "%300s\n", url) == 1);
+  }
+
+  return 0;
+}
+
+static int get_next_load_balance_host(char *url)
+{
+  int rc;
+  if ((rc = fscanf(loadBalHostsFile, "%300s\n", url)) == 1)
+    return 1;
+
+  if (rc == EOF) {
+    fclose(loadBalHostsFile);
+    loadBalHostsFile = fopen(loadBalHostsFileName, "r");
+    return (fscanf(loadBalHostsFile, "%300s\n", url) == 1);
+  }
+
+  return 0;
+}
+    
+
 void send_req(evutil_socket_t fd, short what, void *arg)
 {
   static struct timeval last_time = {0, 0};
@@ -163,6 +196,29 @@ void send_req(evutil_socket_t fd, short what, void *arg)
   } 
 
   log_start(req->id, &req->start_time, &delta, &req->delta);
+
+  // set up next host url from load balancer file
+  if (loadBalHostsFile != NULL) {
+    //update currentHost to be next in round robin list
+    get_next_load_balance_host(currentHost);
+    fprintf(stderr, "Next host url from load balancer file (%s) is %s.\n", loadBalHostsFileName, currentHost);
+  } else {
+    strcpy(currentHost,host);
+    fprintf(stderr, "Using host %s from --host flag.\n", currentHost);
+  }
+
+  fprintf(stderr, "Setting up connection to host %s\n", currentHost);
+  req->evcon = evhttp_connection_base_new(base, NULL, currentHost, 80);
+  if (req->evcon == NULL) {
+    fprintf(stderr, "evhttp_connection failed\n");
+    exit(1);
+  }
+  
+  evhttp_connection_set_timeout(req->evcon, timeout);
+  evhttp_connection_set_conncb(req->evcon, http_conn, req);
+  req->evreq = evhttp_request_new(http_request_done, req);
+  evhttp_add_header(req->evreq->output_headers, "Host", "trace-play");
+
   if (evhttp_make_request(req->evcon, req->evreq, EVHTTP_REQ_GET, req->url) == -1) {
     fprintf(stderr, "Request failed\n");
     exit(1);
@@ -188,6 +244,7 @@ static void load_trace_file(FILE *file)
     }
     read_time.tv_usec *= 1000;
 
+
     if (first_line) first_time = read_time;
     evutil_timersub(&read_time, &first_time, &time);
     time.tv_sec += load_time_s;
@@ -200,35 +257,12 @@ static void load_trace_file(FILE *file)
     last_time = time;
 
     req->id = num_req++;
-    req->evcon = evhttp_connection_base_new(base, NULL, host, 80);
-    if (req->evcon == NULL) {
-      fprintf(stderr, "evhttp_connection failed\n");
-      exit(1);
-    }
-    evhttp_connection_set_timeout(req->evcon, timeout);
-    evhttp_connection_set_conncb(req->evcon, http_conn, req);
-    req->evreq = evhttp_request_new(http_request_done, req);
-    evhttp_add_header(req->evreq->output_headers, "Host", "trace-play");
 
     req->timer = evtimer_new(base, send_req, req);
     evtimer_add(req->timer, &time);
   }
 }
 
-static int get_next_url(FILE *file, char *url)
-{
-  int rc;
-  if ((rc = fscanf(file, "%300s\n", url)) == 1)
-    return 1;
-
-  if (rc == EOF) {
-    rewind(file);
-    return (fscanf(file, "%300s\n", url) == 1);
-  }
-
-  return 0;
-}
-    
 static void load_url_file(FILE *file, char *url, double rate, int num_conn)
 {
   int i;
@@ -259,16 +293,6 @@ static void load_url_file(FILE *file, char *url, double rate, int num_conn)
       }
     }
     req->id = i; 
-    req->evcon = evhttp_connection_base_new(base, NULL, host, 80);
-    if (req->evcon == NULL) {
-      fprintf(stderr, "evhttp_connection failed\n");
-      exit(1);
-    }
-    evhttp_connection_set_timeout(req->evcon, timeout);
-    
-    evhttp_connection_set_conncb(req->evcon, http_conn, req);
-    req->evreq = evhttp_request_new(http_request_done, req);
-    evhttp_add_header(req->evreq->output_headers, "Host", "trace-play");
 
     req->timer = evtimer_new(base, send_req, req);
     evtimer_add(req->timer, &time);
@@ -282,7 +306,8 @@ static void load_url_file(FILE *file, char *url, double rate, int num_conn)
 static void usage()
 {
   fprintf(stderr, "Usage:\n");
-  fprintf(stderr, " load_gen --host ip_address\n");
+  fprintf(stderr, " load_gen \n");
+  fprintf(stderr, "   (--host ip_address or --loadbalfile load_bal_host_file)\n");
   fprintf(stderr, "   [--trace trace_file]\n");
   fprintf(stderr, "   ( [--wlog url_file] or [--url] ) [--rate] [--num-req]\n");
   fprintf(stderr, "   [--timeout socket_timeout]\n");
@@ -294,22 +319,27 @@ static void usage()
 static void options(int argc, char **argv)
 {
   int ct = 0;
+  // name=long opt name
+  // has_arg= (no_argument, required_argument, optional_argument
+  // flag=how results are returned for a long opt
+  // val=return val or to load into variable pointed to by flag
   static struct option long_options[] = {
-      {"host",      required_argument, 0, 'h'},
-      {"trace",     required_argument, 0, 't'},
-      {"url",       required_argument, 0, 'u'},
-      {"wlog",      required_argument, 0, 'w'},
-      {"rate",      required_argument, 0, 'r'},
-      {"num-req",   required_argument, 0, 'n'},
-      {"timeout",   required_argument, 0, 'i'},
-      {"output",    required_argument, 0, 'o'},
-      {"help",      no_argument      , 0, 'l'},
+      {"host",        required_argument, 0, 'h'},
+      {"trace",       required_argument, 0, 't'},
+      {"url",         required_argument, 0, 'u'},
+      {"wlog",        required_argument, 0, 'w'},
+      {"loadbalfile", required_argument, 0, 'b'},
+      {"rate",        required_argument, 0, 'r'},
+      {"num-req",     required_argument, 0, 'n'},
+      {"timeout",     required_argument, 0, 'i'},
+      {"output",      required_argument, 0, 'o'},
+      {"help",        no_argument      , 0, 'l'},
       {0, 0, 0, 0}
   };
 
   while (1) {
     int option_index = 0;
-    int c = getopt_long (argc, argv, "h:t:u:w:r:n:i:o:l", long_options, &option_index);
+    int c = getopt_long (argc, argv, "h:t:u:w:b:r:n:i:o:l", long_options, &option_index);
     
     if (c == -1)
       break;
@@ -329,6 +359,15 @@ static void options(int argc, char **argv)
       case 'w':
         urlfile = fopen(optarg, "r");
         if (urlfile == NULL) {
+          fprintf(stderr, "Error opening file %s\n", optarg);
+          exit(1);
+        }
+        break;
+      case 'b':
+        loadBalHostsFileName = malloc(strlen(optarg));
+        strcpy(loadBalHostsFileName, optarg);
+        loadBalHostsFile = fopen(optarg, "r");
+        if (loadBalHostsFile == NULL) {
           fprintf(stderr, "Error opening file %s\n", optarg);
           exit(1);
         }
@@ -372,14 +411,17 @@ static void options(int argc, char **argv)
   }
 
   // Check args
-  if (host == NULL)
-    error("Host parameter required\n");
+  if (loadBalHostsFile != NULL) ct++;
+  if (host != NULL) ct++;
+  if (ct != 1)
+    error("Please set exactly one of --host or --loadBalHostsFile\n");
 
+  ct = 0;
   if (tracefile != NULL) ct++;
   if (urlfile != NULL) ct++;
   if (geturl != NULL) ct++;
   if (ct != 1)  
-    error("Please set --trace, --wlog or --url\n");
+    error("Please set --trace or --wlog or --url\n");
 
   if (tracefile != NULL) {
     if (rate != -1 || num_req != -1)
